@@ -27,16 +27,12 @@ function removeDarkBackground(png) {
     const r = png.data[i];
     const g = png.data[i + 1];
     const b = png.data[i + 2];
-    const alpha = Math.max(r, g, b);
-    if (alpha <= 24) {
-      out.data[i + 3] = 0;
-      continue;
-    }
-    const scale = 255 / alpha;
-    out.data[i] = Math.min(255, Math.round(r * scale));
-    out.data[i + 1] = Math.min(255, Math.round(g * scale));
-    out.data[i + 2] = Math.min(255, Math.round(b * scale));
-    out.data[i + 3] = Math.min(255, Math.round(alpha * 1.15));
+    const lum = Math.max(r, g, b);
+    const alpha = Math.min(255, Math.round(lum * 1.25));
+    out.data[i] = r;
+    out.data[i + 1] = g;
+    out.data[i + 2] = b;
+    out.data[i + 3] = lum <= 10 ? 0 : alpha;
   }
   return out;
 }

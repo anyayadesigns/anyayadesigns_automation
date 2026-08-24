@@ -197,14 +197,21 @@ function footer({ p, dark, monogram, brandName, footerSub, siteUrl, logo }) {
   let logoSvg = "";
   if (logo?.base64) {
     const crop = logo.crop ?? 1;
-    const cropH = Math.max(1, Math.round(logo.height * crop));
+    const cropY = logo.cropY ?? 0;
+    const cropX = logo.cropX ?? 0;
+    const cropW = logo.cropW ?? 1;
+    const winW = Math.max(1, Math.round(logo.width * cropW));
+    const winH = Math.max(1, Math.round(logo.height * crop));
     const box = 118;
-    const imgW = Math.round(box * (logo.width / cropH));
-    const imgH = Math.round(box * (logo.height / cropH));
+    const scale = box / Math.max(winW, winH);
+    const imgW = Math.round(logo.width * scale);
+    const imgH = Math.round(logo.height * scale);
     const x = L - 6;
     const y = 1122;
+    const imgX = Math.round(x - cropX * logo.width * scale);
+    const imgY = Math.round(y - cropY * logo.height * scale);
     logoSvg = `<clipPath id="anyayaLogoClip"><rect x="${x}" y="${y}" width="${box}" height="${box}"/></clipPath>
-    <image x="${x}" y="${y}" width="${imgW}" height="${imgH}" clip-path="url(#anyayaLogoClip)" href="data:image/${logo.mime};base64,${logo.base64}"/>`;
+    <image x="${imgX}" y="${imgY}" width="${imgW}" height="${imgH}" clip-path="url(#anyayaLogoClip)" href="data:image/${logo.mime};base64,${logo.base64}"/>`;
   } else {
     logoSvg = `${sprig(L + 4, 1206, gold)}
     <text x="${L + 26}" y="1198" font-family="Cormorant Garamond" font-weight="600" font-style="italic" font-size="66" fill="${gold}" opacity="0.95">${esc(monogram[0])}</text>
