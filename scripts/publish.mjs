@@ -1,6 +1,6 @@
 import { loadBrand, loadPosts, savePosts, ROOT } from "./lib/store.mjs";
 
-const GRAPH = "https://graph.facebook.com/v21.0";
+const GRAPH = `https://graph.facebook.com/${process.env.GRAPH_VERSION ?? "v26.0"}`;
 
 const owner =
   process.env.GH_OWNER ?? process.env.GITHUB_REPOSITORY?.split("/")[0];
