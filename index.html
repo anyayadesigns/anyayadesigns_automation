@@ -20,7 +20,10 @@ body{font-family:"Jost",sans-serif;background:var(--paper);color:var(--ink);min-
 header{background:linear-gradient(135deg,var(--sage-deep),var(--sage));color:var(--cream);padding:28px 24px 22px;text-align:center;position:relative}
 .logo{font-family:"Parisienne",cursive;font-size:2.4rem;line-height:1}
 .sub{font-family:"Cormorant Garamond",serif;font-size:1.05rem;letter-spacing:.35em;text-transform:uppercase;margin-top:8px;opacity:.85}
-.settings-btn{position:absolute;right:18px;top:18px;background:rgba(253,251,246,.15);border:1px solid rgba(253,251,246,.4);color:var(--cream);border-radius:50%;width:42px;height:42px;font-size:1.2rem;cursor:pointer;transition:.2s}
+.settings-btn{position:absolute;top:18px;width:40px;height:40px;border-radius:50%;background:rgba(253,251,246,.1);border:1px solid rgba(253,251,246,.28);color:var(--cream);cursor:pointer;font-size:1rem;transition:.2s;display:flex;align-items:center;justify-content:center;backdrop-filter:blur(3px)}
+.settings-btn:hover{background:rgba(253,251,246,.28);transform:translateY(-1px)}
+#settingsBtn{right:20px}
+#lockBtn{right:70px}
 .settings-btn:hover{background:rgba(253,251,246,.3)}
 main{max-width:1100px;margin:0 auto;padding:26px 20px 80px}
 .toolbar{display:flex;gap:10px;align-items:center;justify-content:space-between;flex-wrap:wrap;margin-bottom:22px}
@@ -35,11 +38,12 @@ main{max-width:1100px;margin:0 auto;padding:26px 20px 80px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:24px}
 @media(max-width:720px){.grid{grid-template-columns:1fr}}
 @media(max-width:600px){
-  header{padding:20px 64px 18px}
-  .logo{font-size:1.85rem}
-  .sub{font-size:.78rem;letter-spacing:.22em;margin-top:6px}
-  .settings-btn{width:38px;height:38px;font-size:1rem;top:auto;bottom:16px;right:14px}
-  #lockBtn{right:60px !important;bottom:16px;top:auto !important}
+  header{padding:20px 52px 16px}
+  .logo{font-size:1.75rem}
+  .sub{font-size:.75rem;letter-spacing:.2em;margin-top:6px}
+  .settings-btn{top:14px;width:34px;height:34px;font-size:.9rem}
+  #settingsBtn{right:12px}
+  #lockBtn{right:54px}
   main{padding:16px 12px 60px}
   .toolbar{flex-direction:column;align-items:stretch;gap:10px}
   .tabs{width:100%}
@@ -48,7 +52,6 @@ main{max-width:1100px;margin:0 auto;padding:26px 20px 80px}
   .toolbar-btns .refresh-btn{flex:1;padding:12px 8px;font-size:.9rem}
   .card-body{padding:14px}
   .actions{gap:14px}
-  textarea{rows:4}
 }
 .card{background:#fff;border:1px solid var(--blush);border-radius:16px;overflow:hidden;box-shadow:0 6px 24px rgba(87,79,68,.07);display:flex;flex-direction:column}
 .card img{width:100%;aspect-ratio:1080/1350;object-fit:cover;display:block;background:var(--blush);cursor:zoom-in}
@@ -98,7 +101,7 @@ dialog::backdrop{background:rgba(35,32,27,.45)}
 <header>
   <div class="logo">Anyaya Post Studio</div>
   <div class="sub">Approve &middot; Publish &middot; Kilig</div>
-  <button class="settings-btn" id="lockBtn" title="Lock" style="right:70px;display:none">&#128274;</button>
+  <button class="settings-btn" id="lockBtn" title="Lock" style="display:none">&#128274;</button>
   <button class="settings-btn" id="settingsBtn" title="Settings">&#9881;&#65039;</button>
 </header>
 <main>
