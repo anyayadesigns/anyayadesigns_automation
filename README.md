@@ -1,5 +1,7 @@
 # 🎨 Anyaya Post Studio
 
+**🔗 Admin Panel:** https://anyayadesigns.github.io/anyayadesigns_automation/
+
 **AI-powered social media automation para sa Anyaya Designs** — RSVP websites & printed invitations.
 
 Gumagawa ng 1 branded post kada araw (caption + designed image), tapos **approve ka lang**, at automatic nang ma-post sa **Facebook Page** at **Instagram**.
