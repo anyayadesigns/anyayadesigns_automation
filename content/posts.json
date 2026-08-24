@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260825-sunday-kilig",
+      "createdAt": "2026-08-24T16:12:00.733Z",
+      "status": "draft",
+      "pillarId": "sunday-kilig",
+      "layout": "quote",
+      "kicker": "Para sa pag-ibig niyo",
+      "headline": "Every love story is beautiful, pero ang kwento niyo dapat *unforgettable*.",
+      "accent": "",
+      "caption": "Kahit anong love story ay maganda, pero iba pa rin kapag ramdam ng lahat ang magic ng sa inyo.\n\nMake your special day stand out starting with an invite they will treasure forever.\n\nWhen you're ready, we're here. 🤍 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #SweetSunday #FilipinoWeddings #KiligMoments #WeddingInspoPH",
+      "image": "assets/posts/20260825-sunday-kilig.png",
+      "imagePrompt": "An elegant aesthetic top-down view of a modern minimalist wedding invitation suite placed on neutral linen fabric with soft sunlight shadows.",
+      "links": {}
+    },
+    {
       "id": "20260824-tuesday-tech",
       "createdAt": "2026-08-24T15:15:55.162Z",
       "status": "draft",
