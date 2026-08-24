@@ -4,7 +4,7 @@
     {
       "id": "20260824-monday-inspiration",
       "createdAt": "2026-08-24T11:35:51.107Z",
-      "status": "approved",
+      "status": "posted",
       "pillarId": "monday-inspiration",
       "kicker": "MOODBOARD MONDAY",
       "headline": "A color palette story: why sage green and gold feels",
@@ -17,9 +17,13 @@
         "facebook": {
           "id": "1185505437979748_122120302431391548",
           "permalink": "https://www.facebook.com/122120302437391548/posts/122120302431391548"
+        },
+        "instagram": {
+          "id": "18012830645744553",
+          "permalink": "https://www.instagram.com/p/DcbEbO3Fi3u/"
         }
       },
-      "postedAt": "2026-08-24T11:39:01.930Z"
+      "postedAt": "2026-08-24T12:32:06.562Z"
     },
     {
       "id": "20260824-tuesday-tech",
