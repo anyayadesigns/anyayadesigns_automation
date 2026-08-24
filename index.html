@@ -288,7 +288,7 @@ function cardHTML(post) {
         ${post.status === "draft" ? `<button class="btn approve" data-act="approve">&#9989; Approve &amp; Publish</button>` : ""}
         ${post.status === "approved" ? `<button class="btn approve" data-act="republish">&#128640; Retry Publish</button>` : ""}
         <button class="btn save" data-act="save">&#128190;</button>
-        ${post.status === "draft" ? `<button class="btn skip" data-act="skip">&#9193;</button>` : ""}
+        ${post.status === "draft" ? `        <button class="btn skip" data-act="skip" title="Delete post at image">&#128465;&#65039;</button>` : ""}
       </div>
     </div>
   </article>`;
@@ -349,9 +349,29 @@ const act = (action, post, btn) => withBusy(async () => {
     await loadPosts();
     const mine = state.posts.find((p) => p.id === post.id);
     if (!mine) return toast("Hindi na exists ang post, refresh mo.");
-    mine.status = "skipped";
-    await savePosts(`⏭️ Skip ${post.id}`);
-    toast("Skipped.");
+    if (mine.image) {
+      try {
+        const img = await gh(
+          `/repos/${cfg().owner}/${cfg().repo}/contents/${mine.image}?ref=${cfg().branch}`
+        );
+        await gh(
+          `/repos/${cfg().owner}/${cfg().repo}/contents/${mine.image}`,
+          {
+            method: "DELETE",
+            body: JSON.stringify({
+              message: `🗑️ Delete ${mine.image}`,
+              sha: img.sha,
+              branch: cfg().branch,
+            }),
+          }
+        );
+      } catch (err) {
+        console.warn("image delete skipped:", err.message);
+      }
+    }
+    state.posts = state.posts.filter((p) => p.id !== mine.id);
+    await savePosts(`🗑️ Delete post ${post.id}`);
+    toast("Deleted na! 🗑️");
     await refresh(false);
   }
   if (action === "approve" || action === "republish") {
