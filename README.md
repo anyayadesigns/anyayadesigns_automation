@@ -102,6 +102,17 @@ Bukasin ang Admin Panel URL → click ⚙️ → paste token → Save. ✅
 
 Kapag walang Gemini key, gumagamit pa rin ng libreng fallback (Pollinations.ai). Hindi masisiraang workflow.
 
+### Step 7 (optional) — Username & Password sa Admin Panel
+
+Para may login gate ang panel mo:
+
+1. Add 2 secrets (same place as Step 4): `ADMIN_USER` at `ADMIN_PASS`
+   - Gumamit ng malakas na password (12+ characters)!
+2. Repo → **Actions → Setup Admin Login → Run workflow** → Run
+3. Refresh ang admin panel → may login screen na! 🔒
+
+> Ang naka-commit sa repo ay **salted SHA-256 hash lang** — hindi ang totoong password. Para palitan ang credentials, i-update lang ang secrets at i-run ulit ang workflow.
+
 ---
 
 ## 📅 DAILY FLOW MO NA LANG
