@@ -109,21 +109,29 @@ async function main() {
 
   for (const post of approved) {
     console.log(`[publish] processing ${post.id}...`);
-    const links = {};
+    const links = post.links ?? {};
     let anyFail = false;
-    try {
-      const fb = await publishFacebook(post);
-      if (fb) links.facebook = fb;
-    } catch (err) {
-      anyFail = true;
-      console.error(`[fb] failed: ${err.message}`);
+    if (links.facebook) {
+      console.log("[fb] may post na, skip para walang duplicate");
+    } else {
+      try {
+        const fb = await publishFacebook(post);
+        if (fb) links.facebook = fb;
+      } catch (err) {
+        anyFail = true;
+        console.error(`[fb] failed: ${err.message}`);
+      }
     }
-    try {
-      const ig = await publishInstagram(post);
-      if (ig) links.instagram = ig;
-    } catch (err) {
-      anyFail = true;
-      console.error(`[ig] failed: ${err.message}`);
+    if (links.instagram) {
+      console.log("[ig] may post na, skip para walang duplicate");
+    } else {
+      try {
+        const ig = await publishInstagram(post);
+        if (ig) links.instagram = ig;
+      } catch (err) {
+        anyFail = true;
+        console.error(`[ig] failed: ${err.message}`);
+      }
     }
 
     post.links = links;
