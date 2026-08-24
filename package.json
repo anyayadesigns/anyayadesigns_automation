@@ -1,0 +1,14 @@
+{
+  "name": "anyaya-designs-automation",
+  "version": "1.0.0",
+  "type": "module",
+  "private": true,
+  "description": "AI social media post generator & publisher for Anyaya Designs",
+  "scripts": {
+    "generate": "node scripts/generate.mjs",
+    "publish": "node scripts/publish.mjs"
+  },
+  "dependencies": {
+    "@resvg/resvg-js": "^2.6.2"
+  }
+}

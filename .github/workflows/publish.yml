@@ -1,0 +1,53 @@
+name: Publish Approved Post
+
+on:
+  repository_dispatch:
+    types: [publish-approved]
+  workflow_dispatch:
+    inputs:
+      post_id:
+        description: "Post id to publish (optional; publishes all approved if empty)"
+        required: false
+        default: ""
+
+permissions:
+  contents: write
+
+concurrency:
+  group: publish-post
+  cancel-in-progress: false
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: 20
+          cache: npm
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Publish to Facebook & Instagram
+        env:
+          FACEBOOK_PAGE_ID: ${{ secrets.FACEBOOK_PAGE_ID }}
+          FACEBOOK_PAGE_TOKEN: ${{ secrets.FACEBOOK_PAGE_TOKEN }}
+          INSTAGRAM_USER_ID: ${{ secrets.INSTAGRAM_USER_ID }}
+        run: node scripts/publish.mjs${{ inputs.post_id && format(' --id={0}', inputs.post_id) || '' }}
+
+      - name: Commit publish status
+        run: |
+          git config user.name "anyaya-bot"
+          git config user.email "bot@anyayadesigns.local"
+          git add content/posts.json
+          if git diff --cached --quiet; then
+            echo "No status changes to commit"
+          else
+            git commit -m "🚀 Update publish status $(date -u +%Y-%m-%d-%H%M)"
+            git push
+          fi

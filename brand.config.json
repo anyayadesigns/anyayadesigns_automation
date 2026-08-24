@@ -1,0 +1,39 @@
+{
+  "name": "Anyaya Designs",
+  "handle": "@anyayadesigns",
+  "website": "https://anyayadesigns.github.io/flow",
+  "tagline": "Elegant digital invitations & RSVP websites",
+  "audience": "Filipino couples and families planning weddings, debuts, birthdays and milestones",
+  "services": [
+    "Custom RSVP websites (live guest tracking, meal choices, seat maps)",
+    "Printed invitation cards (premium paper, foil-ready designs)"
+  ],
+  "language": "taglish",
+  "palette": {
+    "paper": "#fdfbf6",
+    "ink": "#23201b",
+    "warm": "#6f665a",
+    "gold": "#a6824f",
+    "cream": "#faf6ef",
+    "blush": "#f0e2dc",
+    "sage": "#8c9a7d",
+    "sageDeep": "#5d6b50",
+    "rosedust": "#bf857f",
+    "bark": "#574f44"
+  },
+  "fonts": [
+    { "family": "Cormorant Garamond", "query": "Cormorant+Garamond:wght@500;600;700", "role": "heading" },
+    { "family": "Jost", "query": "Jost:wght@300;400;500", "role": "body" },
+    { "family": "Parisienne", "query": "Parisienne", "role": "script" }
+  ],
+  "hashtags": [
+    "#AnyayaDesigns",
+    "#DigitalInvitations",
+    "#RSVPWebsite",
+    "#WeddingInvitationsPH",
+    "#WeddingPhilippines",
+    "#InvitationsPH",
+    "#BrideToBePH",
+    "#DebutPH"
+  ]
+}

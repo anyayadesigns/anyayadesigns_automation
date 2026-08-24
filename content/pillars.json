@@ -1,0 +1,158 @@
+{
+  "pillars": [
+    {
+      "id": "monday-inspiration",
+      "day": 1,
+      "name": "Moodboard Monday",
+      "emoji": "🌸",
+      "kicker": "MOODBOARD MONDAY",
+      "description": "Wedding/debut inspiration posts. Show a beautiful visual mood and describe a style or theme (e.g., sage & gold garden wedding, old-money elegant, modern minimalist Filipiniana). Position Anyaya Designs as the team that can turn this mood into invitations + RSVP website.",
+      "angles": [
+        "A color palette story: why sage green and gold feels timeless for weddings",
+        "Theme peg: 'Old money' elegant wedding — how it translates to invitations",
+        "Filipiniana modern twist for debuts — design elements that stand out",
+        "Garden wedding mood: florals, light, and airy invitation ideas",
+        "Minimalist is in: less clutter, more meaning on your invites"
+      ],
+      "cta": [
+        "Dreaming of this theme? Send us a message and let's design it together. 💌 {url}",
+        "Save this peg! When you're ready, Anyaya Designs can make it real. ✨ {url}",
+        "Which detail is your favorite? Comment below! 👇 {url}"
+      ],
+      "hashtagsExtra": ["#WeddingPegs", "#WeddingInspo"],
+      "imageStyle": "elegant wedding stationery flatlay, soft natural light, sage green and cream tones, delicate florals, luxury paper texture, dreamy romantic atmosphere"
+    },
+    {
+      "id": "tuesday-tech",
+      "day": 2,
+      "name": "Tech Tuesday",
+      "emoji": "💻",
+      "kicker": "TECH TUESDAY",
+      "description": "Informative posts about WHY an RSVP website is essential. Educate couples on pain points solved: no more manual headcount spreadsheets, real-time guest tracking, automatic meal choice collection, digital seat map, reminders, works even for lolas who just click the link. Convenience = less stress for the couple.",
+      "angles": [
+        "Problem/solution: Nakakapagod mag-follow up ng 'Jo, pupunta ka ba?' — paano tinatapos ng RSVP website ito",
+        "5 things your RSVP website can do that a group chat cannot",
+        "How a live guest list saves your budget (exact headcount = exact catering cost)",
+        "From invite to confirmation in 3 taps: how guests use your RSVP site",
+        "Why printed invites + RSVP website are better together"
+      ],
+      "cta": [
+        "Ready to ditch the spreadsheet? Let's build your RSVP site. 💻 {url}",
+        "Less stress, more kilig. Get your own RSVP website today. 💌 {url}",
+        "Tag a bride who needs this! 😅 {url}"
+      ],
+      "hashtagsExtra": ["#RSVPSystem", "#WeddingTech", "#ModernBride"],
+      "imageStyle": "minimal tech-elegant composition, laptop showing elegant wedding website, cream background, sage accents, clean sophisticated layout, soft shadows"
+    },
+    {
+      "id": "wednesday-design",
+      "day": 3,
+      "name": "Wedding Wednesday",
+      "emoji": "💍",
+      "kicker": "WEDDING WEDNESDAY",
+      "description": "Invitation design tips and stationery education. Teach etiquette and design wisdom: when to send invites, what details to include, paper quality matters, wording guides, timeline tips. Establish authority as design experts.",
+      "angles": [
+        "Invitation timeline: when should you order and send your invites?",
+        "Ano ang dapat nakalagay sa invitation? Complete checklist for PH weddings",
+        "Paper talk: why premium card stock feels different (at bakit worth it)",
+        "Digital vs printed invites — honest take: you actually need both",
+        "Wording guide: paano maging elegant ang invitation text ninyo"
+      ],
+      "cta": [
+        "Need guidance? We'll walk you through every step. 🖋️ {url}",
+        "Your love story, beautifully told. Order your invitations today. ✨ {url}",
+        "Share this with someone planning their wedding! 💍 {url}"
+      ],
+      "hashtagsExtra": ["#InvitationDesign", "#StationeryLovers"],
+      "imageStyle": "luxurious printed wedding invitation cards stacked, letterpress texture, gold foil details, blush and cream flowers beside, editorial photography style"
+    },
+    {
+      "id": "thursday-feature",
+      "day": 4,
+      "name": "Feature Thursday",
+      "emoji": "⭐",
+      "kicker": "FEATURE THURSDAY",
+      "description": "Service spotlight posts. Feature one specific offer in depth: RSVP website features tour (live dashboard, meal selector, seat map), or printed cards showcase (paper options, finishes). Explain what's included and how ordering works. Make it tangible and easy to say yes.",
+      "angles": [
+        "Spotlight: Our RSVP dashboard — see confirmations live, anywhere",
+        "What's inside your Anyaya invitation package (paper, finish, extras)",
+        "How ordering works: from design brief to delivery in days",
+        "Seat map + meal choices: features your caterer will thank you for",
+        "Custom domain for your big day: yournamesayido.com 🥺"
+      ],
+      "cta": [
+        "Curious about this service? DM us 'ANYAYA' and we'll send the details. 📩 {url}",
+        "Slots are limited per month to keep quality high. Reserve yours! ⏳ {url}",
+        "See full packages here → {url}"
+      ],
+      "hashtagsExtra": ["#SmallBusinessPH", "#SupportLocalPH"],
+      "imageStyle": "product hero shot, elegant invitation suite with envelope and wax seal, RSVP website mockup on phone screen, studio lighting, sage green backdrop, premium branding photography"
+    },
+    {
+      "id": "friday-faq",
+      "day": 5,
+      "name": "FAQ Friday",
+      "emoji": "❓",
+      "kicker": "FAQ FRIDAY",
+      "description": "Answer frequently asked questions honestly and helpfully. Common questions: Magkano? Gaano kabilis? Paano mag-order? Pwede ba custom design? Paano kung may changes? Batang walang plus one? Building trust through transparency removes friction to inquire.",
+      "angles": [
+        "Magkano po? Honest pricing talk — what affects the cost of your package",
+        "Gaano kabilis? Typical turnaround from brief to final files/printing",
+        "'Pwede ba akong magpa-change ng design?' Yes! Here's how revisions work",
+        "'Paano yung guests na hindi techy?' The link just works — here's proof",
+        "Do you need both website AND printed cards? Our honest recommendation"
+      ],
+      "cta": [
+        "May question ka? Comment below at sasagutin namin! 💬 {url}",
+        "Got more questions? Our inbox is always open. 💌 {url}",
+        "Save this for your wedding planning journey! 🔖 {url}"
+      ],
+      "hashtagsExtra": ["#WeddingPlanningPH", "#FAQ"],
+      "imageStyle": "cozy consultation scene, hands pointing at invitation samples and laptop, warm coffee tones mixed with sage, approachable friendly atmosphere, lifestyle photography"
+    },
+    {
+      "id": "saturday-bts",
+      "day": 6,
+      "name": "Behind the Scenes Saturday",
+      "emoji": "✂️",
+      "kicker": "BEHIND THE SCENES",
+      "description": "Show the human side: the design process, sketching concepts, packing orders, printing quality checks, small business hustle. People buy from people. Build connection and trust with the makers behind Anyaya Designs.",
+      "angles": [
+        "From sketch to send-off: how each invitation comes to life",
+        "Packing day! Every order wrapped with care (and kilig)",
+        "Quality check: why we print test pieces before your batch",
+        "The tools we love: how we design your RSVP site pixel by pixel",
+        "Small wins this week: thank you for trusting our small biz 🥹"
+      ],
+      "cta": [
+        "Follow along for more behind-the-scenes! 🛠️ {url}",
+        "Every order is personal to us. Salamat sa pagtitiwala! 💚 {url}",
+        "Know a couple getting married? Tag them below! 👇 {url}"
+      ],
+      "hashtagsExtra": ["#BehindTheScenes", "#SmallBizPH", "#MadeInPhilippines"],
+      "imageStyle": "artisan workspace scene, designer desk with sketches, paper cutters, ribbon spools, warm ambient lighting, authentic craft atmosphere, shallow depth of field"
+    },
+    {
+      "id": "sunday-kilig",
+      "day": 0,
+      "name": "Sweet Sunday",
+      "emoji": "🤍",
+      "kicker": "SWEET SUNDAY",
+      "description": "Soft-sell emotional posts. Kilig quotes about love and forever, gentle reminders that milestones deserve beautiful beginnings, gratitude posts. Light promo energy — nurture the audience emotionally so they remember Anyaya when they're ready.",
+      "angles": [
+        "Kilig quote: 'Every love story is beautiful, but yours should be unforgettable' — start it with an invite they'll keep",
+        "Gratitude post: to every couple who trusted us this month 🤍",
+        "Reminder: your invitation is the first glimpse of your forever",
+        "Sunday thought: details matter because memories matter",
+        "Counting down to your big day? Make every detail count."
+      ],
+      "cta": [
+        "When you're ready, we're here. 🤍 {url}",
+        "Start your forever beautifully. {url}",
+        "Tag your forever person. 🥰 {url}"
+      ],
+      "hashtagsExtra": ["#LoveStory", "#ForeverBegins"],
+      "imageStyle": "romantic soft focus, dried florals and silk ribbon on cream linen, handwritten calligraphy card, golden hour glow, intimate dreamy mood"
+    }
+  ]
+}
