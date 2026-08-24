@@ -2,7 +2,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { loadBrand, loadPillars, loadPosts, savePosts, phToday, ROOT } from "./lib/store.mjs";
 import { ensureFonts } from "./lib/fonts.mjs";
-import { renderCard } from "./lib/image.mjs";
+import { renderBranded } from "./lib/image.mjs";
 import { generateContent } from "./lib/ai.mjs";
 
 const FONTS_DIR = path.join(ROOT, ".cache", "fonts");
@@ -59,23 +59,49 @@ async function main() {
   const cta = pillar.cta[weekIndex % pillar.cta.length];
 
   console.log(`[generate] pillar=${pillar.id} angle="${angle}"`);
-  const content = await generateContent({ brand, pillar, angle, cta });
-
-  const imagePrompt = `${content.imagePrompt}. ${pillar.imageStyle}`;
-  const bg = await fetchBackground(imagePrompt, weekIndex * 13 + 5);
+  const allowedLayouts = pillar.layouts ?? ["quote"];
+  const layout = allowedLayouts.includes(process.env.LAYOUT)
+    ? process.env.LAYOUT
+    : allowedLayouts[0];
+  const content = await generateContent({ brand, pillar, angle, cta, layout });
+  const finalLayout = allowedLayouts.includes(content.layout) ? content.layout : layout;
 
   fs.mkdirSync(ASSETS_DIR, { recursive: true });
-  const fontFiles = await ensureFonts(brand.fonts, FONTS_DIR);
-  const png = renderCard({
-    bgBuffer: bg,
-    kicker: pillar.kicker,
-    headline: content.headline,
-    accent: content.accent,
-    handle: brand.handle,
-    siteUrl: brand.website,
-    palette: brand.palette,
-    fontFiles,
-  });
+  const fontFaces = await ensureFonts(brand.fonts, FONTS_DIR);
+
+  let png;
+  if (finalLayout === "photo") {
+    const imagePrompt = `${content.imagePrompt}. ${pillar.imageStyle}`;
+    const bg = await fetchBackground(imagePrompt, weekIndex * 13 + 5);
+    png = renderBranded({
+      layout: "photo",
+      palette: brand.palette,
+      fontFaces,
+      kicker: content.kicker || pillar.kicker,
+      headline: content.headline,
+      accent: content.accent,
+      bgBuffer: bg,
+      brand,
+    });
+  } else {
+    png = renderBranded({
+      layout: finalLayout,
+      palette: brand.palette,
+      fontFaces,
+      kicker: content.kicker || pillar.kicker,
+      headline: content.headline,
+      items: content.items,
+      subtext: content.subtext,
+      cons: content.cons,
+      pros: content.pros,
+      badLabel: content.badLabel,
+      goodLabel: content.goodLabel,
+      stat: content.stat,
+      statSub: content.statSub,
+      buttonText: content.buttonText,
+      brand,
+    });
+  }
 
   const imageRel = `assets/posts/${id}.png`;
   fs.writeFileSync(path.join(ROOT, imageRel), png);
@@ -85,13 +111,14 @@ async function main() {
     createdAt: new Date().toISOString(),
     status: "draft",
     pillarId: pillar.id,
-    kicker: pillar.kicker,
-    headline: String(content.headline).slice(0, 120),
+    layout: finalLayout,
+    kicker: content.kicker || pillar.kicker,
+    headline: String(content.headline).slice(0, 140),
     accent: String(content.accent ?? "").slice(0, 40),
     caption: content.caption,
     hashtags: content.hashtags,
     image: imageRel,
-    imagePrompt,
+    imagePrompt: content.imagePrompt ?? "",
     links: {},
   };
 

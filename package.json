@@ -9,6 +9,7 @@
     "publish": "node scripts/publish.mjs"
   },
   "dependencies": {
-    "@resvg/resvg-js": "^2.6.2"
+    "@resvg/resvg-js": "^2.6.2",
+    "fontkit": "^2.0.4"
   }
 }

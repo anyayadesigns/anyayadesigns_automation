@@ -19,8 +19,15 @@
         "Save this peg! When you're ready, Anyaya Designs can make it real. ✨ {url}",
         "Which detail is your favorite? Comment below! 👇 {url}"
       ],
-      "hashtagsExtra": ["#WeddingPegs", "#WeddingInspo"],
-      "imageStyle": "elegant wedding stationery flatlay, soft natural light, sage green and cream tones, delicate florals, luxury paper texture, dreamy romantic atmosphere"
+      "hashtagsExtra": [
+        "#WeddingPegs",
+        "#WeddingInspo"
+      ],
+      "imageStyle": "elegant wedding stationery flatlay, soft natural light, sage green and cream tones, delicate florals, luxury paper texture, dreamy romantic atmosphere",
+      "layouts": [
+        "photo",
+        "quote"
+      ]
     },
     {
       "id": "tuesday-tech",
@@ -41,8 +48,17 @@
         "Less stress, more kilig. Get your own RSVP website today. 💌 {url}",
         "Tag a bride who needs this! 😅 {url}"
       ],
-      "hashtagsExtra": ["#RSVPSystem", "#WeddingTech", "#ModernBride"],
-      "imageStyle": "minimal tech-elegant composition, laptop showing elegant wedding website, cream background, sage accents, clean sophisticated layout, soft shadows"
+      "hashtagsExtra": [
+        "#RSVPSystem",
+        "#WeddingTech",
+        "#ModernBride"
+      ],
+      "imageStyle": "minimal tech-elegant composition, laptop showing elegant wedding website, cream background, sage accents, clean sophisticated layout, soft shadows",
+      "layouts": [
+        "list",
+        "compare",
+        "statistic"
+      ]
     },
     {
       "id": "wednesday-design",
@@ -63,8 +79,16 @@
         "Your love story, beautifully told. Order your invitations today. ✨ {url}",
         "Share this with someone planning their wedding! 💍 {url}"
       ],
-      "hashtagsExtra": ["#InvitationDesign", "#StationeryLovers"],
-      "imageStyle": "luxurious printed wedding invitation cards stacked, letterpress texture, gold foil details, blush and cream flowers beside, editorial photography style"
+      "hashtagsExtra": [
+        "#InvitationDesign",
+        "#StationeryLovers"
+      ],
+      "imageStyle": "luxurious printed wedding invitation cards stacked, letterpress texture, gold foil details, blush and cream flowers beside, editorial photography style",
+      "layouts": [
+        "tips",
+        "photo",
+        "quote"
+      ]
     },
     {
       "id": "thursday-feature",
@@ -85,8 +109,17 @@
         "Slots are limited per month to keep quality high. Reserve yours! ⏳ {url}",
         "See full packages here → {url}"
       ],
-      "hashtagsExtra": ["#SmallBusinessPH", "#SupportLocalPH"],
-      "imageStyle": "product hero shot, elegant invitation suite with envelope and wax seal, RSVP website mockup on phone screen, studio lighting, sage green backdrop, premium branding photography"
+      "hashtagsExtra": [
+        "#SmallBusinessPH",
+        "#SupportLocalPH"
+      ],
+      "imageStyle": "product hero shot, elegant invitation suite with envelope and wax seal, RSVP website mockup on phone screen, studio lighting, sage green backdrop, premium branding photography",
+      "layouts": [
+        "list",
+        "compare",
+        "cta",
+        "photo"
+      ]
     },
     {
       "id": "friday-faq",
@@ -107,8 +140,16 @@
         "Got more questions? Our inbox is always open. 💌 {url}",
         "Save this for your wedding planning journey! 🔖 {url}"
       ],
-      "hashtagsExtra": ["#WeddingPlanningPH", "#FAQ"],
-      "imageStyle": "cozy consultation scene, hands pointing at invitation samples and laptop, warm coffee tones mixed with sage, approachable friendly atmosphere, lifestyle photography"
+      "hashtagsExtra": [
+        "#WeddingPlanningPH",
+        "#FAQ"
+      ],
+      "imageStyle": "cozy consultation scene, hands pointing at invitation samples and laptop, warm coffee tones mixed with sage, approachable friendly atmosphere, lifestyle photography",
+      "layouts": [
+        "question",
+        "quote",
+        "statistic"
+      ]
     },
     {
       "id": "saturday-bts",
@@ -129,8 +170,16 @@
         "Every order is personal to us. Salamat sa pagtitiwala! 💚 {url}",
         "Know a couple getting married? Tag them below! 👇 {url}"
       ],
-      "hashtagsExtra": ["#BehindTheScenes", "#SmallBizPH", "#MadeInPhilippines"],
-      "imageStyle": "artisan workspace scene, designer desk with sketches, paper cutters, ribbon spools, warm ambient lighting, authentic craft atmosphere, shallow depth of field"
+      "hashtagsExtra": [
+        "#BehindTheScenes",
+        "#SmallBizPH",
+        "#MadeInPhilippines"
+      ],
+      "imageStyle": "artisan workspace scene, designer desk with sketches, paper cutters, ribbon spools, warm ambient lighting, authentic craft atmosphere, shallow depth of field",
+      "layouts": [
+        "photo",
+        "tips"
+      ]
     },
     {
       "id": "sunday-kilig",
@@ -151,8 +200,16 @@
         "Start your forever beautifully. {url}",
         "Tag your forever person. 🥰 {url}"
       ],
-      "hashtagsExtra": ["#LoveStory", "#ForeverBegins"],
-      "imageStyle": "romantic soft focus, dried florals and silk ribbon on cream linen, handwritten calligraphy card, golden hour glow, intimate dreamy mood"
+      "hashtagsExtra": [
+        "#LoveStory",
+        "#ForeverBegins"
+      ],
+      "imageStyle": "romantic soft focus, dried florals and silk ribbon on cream linen, handwritten calligraphy card, golden hour glow, intimate dreamy mood",
+      "layouts": [
+        "quote",
+        "question",
+        "cta"
+      ]
     }
   ]
 }
