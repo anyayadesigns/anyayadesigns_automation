@@ -136,7 +136,9 @@ function apiUrl(path) {
 
 async function gh(path, opts = {}) {
   const c = cfg();
-  const res = await fetch(`https://api.github.com${path}`, {
+  const sep = path.includes("?") ? "&" : "?";
+  const url = `https://api.github.com${path}${opts.method ? "" : sep + "_=" + Date.now()}`;
+  const res = await fetch(url, {
     ...opts,
     headers: {
       Authorization: `Bearer ${c.token}`,
@@ -163,19 +165,33 @@ async function loadPosts() {
 async function savePosts(message) {
   const json = JSON.stringify({ version: 1, posts: state.posts }, null, 2) + "\n";
   const content = btoa(unescape(encodeURIComponent(json)));
-  const data = await gh(
-    `/repos/${cfg().owner}/${cfg().repo}/contents/content/posts.json`,
-    {
-      method: "PUT",
-      body: JSON.stringify({
-        message,
-        content,
-        sha: state.sha,
-        branch: cfg().branch,
-      }),
+  for (let attempt = 0; attempt < 3; attempt++) {
+    try {
+      const data = await gh(
+        `/repos/${cfg().owner}/${cfg().repo}/contents/content/posts.json`,
+        {
+          method: "PUT",
+          body: JSON.stringify({
+            message,
+            content,
+            sha: state.sha,
+            branch: cfg().branch,
+          }),
+        }
+      );
+      state.sha = data.content.sha;
+      return;
+    } catch (err) {
+      if (attempt < 2 && (err.message.startsWith("409") || err.message.startsWith("422"))) {
+        const fresh = await gh(
+          `/repos/${cfg().owner}/${cfg().repo}/contents/content/posts.json?ref=${cfg().branch}`
+        );
+        state.sha = fresh.sha;
+        continue;
+      }
+      throw err;
     }
-  );
-  state.sha = data.content.sha;
+  }
 }
 
 async function dispatchPublish(postId) {
