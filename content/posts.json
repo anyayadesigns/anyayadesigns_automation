@@ -4,7 +4,7 @@
     {
       "id": "20260825-sunday-kilig",
       "createdAt": "2026-08-24T16:12:00.733Z",
-      "status": "approved",
+      "status": "posted",
       "pillarId": "sunday-kilig",
       "layout": "quote",
       "kicker": "Para sa pag-ibig niyo",
@@ -14,7 +14,17 @@
       "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #SweetSunday #FilipinoWeddings #KiligMoments #WeddingInspoPH",
       "image": "assets/posts/20260825-sunday-kilig.png",
       "imagePrompt": "An elegant aesthetic top-down view of a modern minimalist wedding invitation suite placed on neutral linen fabric with soft sunlight shadows.",
-      "links": {}
+      "links": {
+        "facebook": {
+          "id": "1185505437979748_122120360985391548",
+          "permalink": "https://www.facebook.com/122120302437391548/posts/122120360985391548"
+        },
+        "instagram": {
+          "id": "17876567901689833",
+          "permalink": "https://www.instagram.com/p/DcbkhUZGr6p/"
+        }
+      },
+      "postedAt": "2026-08-24T17:12:34.576Z"
     },
     {
       "id": "20260824-friday-faq",
