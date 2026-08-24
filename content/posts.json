@@ -2,6 +2,20 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260824-monday-inspiration",
+      "createdAt": "2026-08-24T11:35:51.107Z",
+      "status": "draft",
+      "pillarId": "monday-inspiration",
+      "kicker": "MOODBOARD MONDAY",
+      "headline": "A color palette story: why sage green and gold feels",
+      "accent": "forever begins",
+      "caption": "A color palette story: why sage green and gold feels timeless for weddings\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nDreaming of this theme? Send us a message and let's design it together. 💌 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingPegs #WeddingInspo",
+      "image": "assets/posts/20260824-monday-inspiration.png",
+      "imagePrompt": "A color palette story: why sage green and gold feels timeless for weddings. elegant wedding stationery flatlay, soft natural light, sage green and cream tones, delicate florals, luxury paper texture, dreamy romantic atmosphere",
+      "links": {}
+    },
+    {
       "id": "20260824-tuesday-tech",
       "createdAt": "2026-08-24T10:21:47.236Z",
       "status": "skipped",
