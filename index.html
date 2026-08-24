@@ -33,7 +33,7 @@ main{max-width:1100px;margin:0 auto;padding:26px 20px 80px}
 .grid{display:grid;grid-template-columns:repeat(auto-fill,minmax(320px,1fr));gap:24px}
 @media(max-width:720px){.grid{grid-template-columns:1fr}}
 .card{background:#fff;border:1px solid var(--blush);border-radius:16px;overflow:hidden;box-shadow:0 6px 24px rgba(87,79,68,.07);display:flex;flex-direction:column}
-.card img{width:100%;aspect-ratio:1080/1350;object-fit:cover;display:block;background:var(--blush)}
+.card img{width:100%;aspect-ratio:1080/1350;object-fit:cover;display:block;background:var(--blush);cursor:zoom-in}
 .card-body{padding:18px;display:flex;flex-direction:column;gap:12px;flex:1}
 .pillar-tag{display:inline-flex;align-items:center;gap:6px;font-size:.78rem;letter-spacing:.14em;text-transform:uppercase;color:var(--gold);font-weight:500}
 textarea,input.txt{width:100%;border:1px solid var(--blush);border-radius:10px;padding:10px 12px;font-family:"Jost";font-size:.9rem;color:var(--ink);background:var(--paper);resize:vertical}
@@ -62,6 +62,9 @@ dialog::backdrop{background:rgba(35,32,27,.45)}
 .field label{display:block;font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:var(--bark);margin-bottom:5px}
 .toast{position:fixed;bottom:26px;left:50%;transform:translateX(-50%);background:var(--ink);color:var(--cream);padding:13px 26px;border-radius:999px;font-size:.9rem;opacity:0;transition:.3s;pointer-events:none;z-index:99;max-width:90vw;text-align:center}
 .toast.show{opacity:1}
+.lightbox{display:none;position:fixed;inset:0;background:rgba(35,32,27,.88);z-index:1000;align-items:center;justify-content:center;cursor:zoom-out;padding:24px}
+.lightbox img{max-width:92vw;max-height:92vh;border-radius:12px;box-shadow:0 20px 80px rgba(0,0,0,.5)}
+.lightbox-hint{position:absolute;bottom:20px;left:50%;transform:translateX(-50%);color:var(--cream);opacity:.7;font-size:.85rem;letter-spacing:.08em}
 .spinner{border:3px solid var(--blush);border-top-color:var(--sage-deep);border-radius:50%;width:34px;height:34px;animation:spin .8s linear infinite;margin:60px auto}
 @keyframes spin{to{transform:rotate(360deg)}}
 .help-note{background:var(--cream);border:1px dashed var(--gold);border-radius:14px;padding:18px;font-size:.86rem;line-height:1.6;color:var(--bark);margin-bottom:22px}
@@ -105,6 +108,7 @@ dialog::backdrop{background:rgba(35,32,27,.45)}
   </form>
 </dialog>
 
+<div class="lightbox" id="lightbox"><img id="lightboxImg" src="" alt="preview"/><div class="lightbox-hint">click anywhere to close</div></div>
 <div class="toast" id="toast"></div>
 
 <div id="loginOverlay" style="display:none;position:fixed;inset:0;background:var(--paper);z-index:999;align-items:center;justify-content:center;flex-direction:column">
@@ -156,6 +160,8 @@ $("#lockBtn").addEventListener("click", () => {
   localStorage.removeItem("ad_auth_ok");
   location.reload();
 });
+
+$("#lightbox").addEventListener("click", () => ($("#lightbox").style.display = "none"));
 
 function detect() {
   const host = location.hostname;
@@ -275,7 +281,7 @@ function cardHTML(post) {
     .join(" ");
   return `
   <article class="card" data-id="${post.id}">
-    <img src="${imageUrl(post.image)}" alt="${post.headline}" loading="lazy"
+    <img class="post-img" src="${imageUrl(post.image)}" alt="${post.headline}" loading="lazy"
          onerror="this.src='data:image/svg+xml,<svg xmlns=%22http://www.w3.org/2000/svg%22 width=%22108%22 height=%22135%22><rect width=%22108%22 height=%22135%22 fill=%22%23f0e2dc%22/></svg>'"/>
     <div class="card-body">
       <span class="status-pill status-${post.status}">${post.status}</span>
@@ -285,10 +291,10 @@ function cardHTML(post) {
       <div class="meta">${post.id}${post.postedAt ? " &middot; " + new Date(post.postedAt).toLocaleString() : ""}</div>
       ${links}
       <div class="actions">
-        ${post.status === "draft" ? `<button class="btn approve" data-act="approve">&#9989; Approve &amp; Publish</button>` : ""}
-        ${post.status === "approved" ? `<button class="btn approve" data-act="republish">&#128640; Retry Publish</button>` : ""}
-        <button class="btn save" data-act="save">&#128190;</button>
-        ${post.status === "draft" || post.status === "skipped" ? `        <button class="btn skip" data-act="skip" title="Delete post at image">&#128465;&#65039;</button>` : ""}
+        ${post.status === "draft" ? `<button class="btn approve" data-act="approve">Approve &amp; Publish</button>` : ""}
+        ${post.status === "approved" ? `<button class="btn approve" data-act="republish">Retry Publish</button>` : ""}
+        <button class="btn save" data-act="save">Save</button>
+        ${post.status === "draft" || post.status === "skipped" ? `<button class="btn skip" data-act="skip" title="Delete post at image">Delete</button>` : ""}
       </div>
     </div>
   </article>`;
@@ -314,6 +320,12 @@ function render() {
         post[el.dataset.field] = el.value.trim();
       });
     });
+    cardEl.querySelectorAll(".post-img").forEach((img) =>
+      img.addEventListener("click", () => {
+        $("#lightboxImg").src = img.src;
+        $("#lightbox").style.display = "flex";
+      })
+    );
     cardEl.querySelectorAll("[data-act]").forEach((btn) =>
       btn.addEventListener("click", () => act(btn.dataset.act, post, btn))
     );
