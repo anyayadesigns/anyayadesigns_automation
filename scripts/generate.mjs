@@ -3,6 +3,7 @@ import path from "node:path";
 import { loadBrand, loadPillars, loadPosts, savePosts, phToday, ROOT } from "./lib/store.mjs";
 import { ensureFonts } from "./lib/fonts.mjs";
 import { renderBranded } from "./lib/image.mjs";
+import { loadLogo } from "./lib/logo.mjs";
 import { generateContent } from "./lib/ai.mjs";
 
 const FONTS_DIR = path.join(ROOT, ".cache", "fonts");
@@ -68,6 +69,8 @@ async function main() {
 
   fs.mkdirSync(ASSETS_DIR, { recursive: true });
   const fontFaces = await ensureFonts(brand.fonts, FONTS_DIR);
+  const logo = brand.logo ? loadLogo(path.join(ROOT, brand.logo)) : null;
+  if (logo) logo.crop = brand.logoCrop ?? 1;
 
   let png;
   if (finalLayout === "photo") {
@@ -82,6 +85,7 @@ async function main() {
       accent: content.accent,
       bgBuffer: bg,
       brand,
+      logo,
     });
   } else {
     png = renderBranded({
@@ -100,6 +104,7 @@ async function main() {
       statSub: content.statSub,
       buttonText: content.buttonText,
       brand,
+      logo,
     });
   }
 

@@ -11,6 +11,8 @@
   ],
   "language": "taglish",
   "monogram": "AD",
+  "logo": "assets/brand/logo.png",
+  "logoCrop": 0.62,
   "footerSub": "RSVP Websites · Craft Invitations",
   "palette": {
     "paper": "#fdfbf6",

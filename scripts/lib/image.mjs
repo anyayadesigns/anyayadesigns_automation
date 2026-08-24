@@ -190,15 +190,29 @@ function sprig(x, y, gold) {
   </g>`;
 }
 
-function footer({ p, dark, monogram, brandName, footerSub, siteUrl }) {
+function footer({ p, dark, monogram, brandName, footerSub, siteUrl, logo }) {
   const gold = p.gold;
   const nameFill = dark ? p.ink : p.cream;
   const urlFill = dark ? p.warm : p.cream;
+  let logoSvg = "";
+  if (logo?.base64) {
+    const crop = logo.crop ?? 1;
+    const cropH = Math.max(1, Math.round(logo.height * crop));
+    const box = 118;
+    const imgW = Math.round(box * (logo.width / cropH));
+    const imgH = Math.round(box * (logo.height / cropH));
+    const x = L - 6;
+    const y = 1122;
+    logoSvg = `<clipPath id="anyayaLogoClip"><rect x="${x}" y="${y}" width="${box}" height="${box}"/></clipPath>
+    <image x="${x}" y="${y}" width="${imgW}" height="${imgH}" clip-path="url(#anyayaLogoClip)" href="data:image/${logo.mime};base64,${logo.base64}"/>`;
+  } else {
+    logoSvg = `${sprig(L + 4, 1206, gold)}
+    <text x="${L + 26}" y="1198" font-family="Cormorant Garamond" font-weight="600" font-style="italic" font-size="66" fill="${gold}" opacity="0.95">${esc(monogram[0])}</text>
+    <text x="${L + 52}" y="1208" font-family="Cormorant Garamond" font-weight="600" font-style="italic" font-size="66" fill="${gold}" opacity="0.9">${esc(monogram[1] ?? "")}</text>`;
+  }
   return `
   <line x1="${L}" y1="1100" x2="${R}" y2="1100" stroke="${gold}" stroke-width="1" opacity="0.45"/>
-  ${sprig(L + 4, 1206, gold)}
-  <text x="${L + 26}" y="1198" font-family="Cormorant Garamond" font-weight="600" font-style="italic" font-size="66" fill="${gold}" opacity="0.95">${esc(monogram[0])}</text>
-  <text x="${L + 52}" y="1208" font-family="Cormorant Garamond" font-weight="600" font-style="italic" font-size="66" fill="${gold}" opacity="0.9">${esc(monogram[1] ?? "")}</text>
+  ${logoSvg}
   <text x="${L + 128}" y="1186" font-family="Jost" font-weight="500" font-size="30" letter-spacing="7" fill="${nameFill}">${esc(brandName.toUpperCase())}</text>
   <text x="${L + 129}" y="1222" font-family="Jost" font-weight="400" font-size="16.5" letter-spacing="3.2" fill="${gold}">${esc(footerSub.toUpperCase())}</text>
   <text x="${R}" y="1216" font-family="Jost" font-weight="300" font-size="21" fill="${urlFill}" opacity="0.85" text-anchor="end">${esc(siteUrl.replace("https://", ""))}</text>`;
@@ -549,6 +563,7 @@ export function buildLayoutSvg({
   statSub,
   buttonText,
   brand,
+  logo,
 }) {
   const measure = makeMeasure(fontFaces);
   const footerOpts = {
@@ -558,6 +573,7 @@ export function buildLayoutSvg({
     brandName: brand.name,
     footerSub: brand.footerSub,
     siteUrl: brand.website,
+    logo,
   };
   const opts = { p, measure, kicker, headline, items, subtext, cons, pros, badLabel, goodLabel, stat, statSub, buttonText, footerOpts };
   switch (layout) {
@@ -644,6 +660,7 @@ export function renderBranded({
   buttonText,
   bgBuffer,
   brand,
+  logo,
 }) {
   if (layout === "photo") {
     const base64 = Buffer.from(bgBuffer).toString("base64");
@@ -662,7 +679,7 @@ export function renderBranded({
     });
     return resvg.render().asPng();
   }
-  const svg = buildLayoutSvg({ layout, palette: p, fontFaces, kicker, headline, items, subtext, cons, pros, badLabel, goodLabel, stat, statSub, buttonText, brand });
+  const svg = buildLayoutSvg({ layout, palette: p, fontFaces, kicker, headline, items, subtext, cons, pros, badLabel, goodLabel, stat, statSub, buttonText, brand, logo });
   const wrapped = `<svg xmlns="http://www.w3.org/2000/svg" width="${W}" height="${H}" viewBox="0 0 ${W} ${H}">${svg}</svg>`;
   const resvg = new Resvg(wrapped, {
     fitTo: { mode: "width", value: W },
