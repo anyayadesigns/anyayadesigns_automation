@@ -2,6 +2,20 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260824-friday-faq",
+      "createdAt": "2026-08-24T13:28:20.894Z",
+      "status": "draft",
+      "pillarId": "friday-faq",
+      "kicker": "FAQ FRIDAY",
+      "headline": "How We Price Your Dream Invitations",
+      "accent": "crafted with love",
+      "caption": "Wondering kung magkano ang custom invitation suite ninyo?\n\nOur pricing depends on your chosen features, like interactive RSVP forms, custom web designs, and premium printed cards.\n\nWe offer flexible packages para swak sa budget at vision ninyo for your big day.\n\nMay question ka? Comment below at sasagutin namin! 💬 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #FAQFriday #FilipinoWeddings #WeddingBudgetPH",
+      "image": "assets/posts/20260824-friday-faq.png",
+      "imagePrompt": "A sleek, modern desk setup featuring elegant printed wedding invitations with gold foil accents next to a laptop displaying an interactive online RSVP website.. cozy consultation scene, hands pointing at invitation samples and laptop, warm coffee tones mixed with sage, approachable friendly atmosphere, lifestyle photography",
+      "links": {}
+    },
+    {
       "id": "20260824-monday-inspiration",
       "createdAt": "2026-08-24T11:35:51.107Z",
       "status": "posted",
