@@ -1,6 +1,6 @@
 const POLLINATIONS_TEXT = "https://text.pollinations.ai/openai";
-const GEMINI_TEXT =
-  "https://generativelanguage.googleapis.com/v1beta/models/gemini-2.0-flash:generateContent";
+const GEMINI_MODEL = process.env.GEMINI_MODEL ?? "gemini-3.6-flash";
+const GEMINI_TEXT = `https://generativelanguage.googleapis.com/v1beta/models/${GEMINI_MODEL}:generateContent`;
 
 function buildPrompt({ brand, pillar, angle, cta }) {
   const ctaText = cta.replace("{url}", brand.website);

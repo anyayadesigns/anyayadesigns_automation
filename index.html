@@ -288,7 +288,7 @@ function cardHTML(post) {
         ${post.status === "draft" ? `<button class="btn approve" data-act="approve">&#9989; Approve &amp; Publish</button>` : ""}
         ${post.status === "approved" ? `<button class="btn approve" data-act="republish">&#128640; Retry Publish</button>` : ""}
         <button class="btn save" data-act="save">&#128190;</button>
-        ${post.status === "draft" ? `        <button class="btn skip" data-act="skip" title="Delete post at image">&#128465;&#65039;</button>` : ""}
+        ${post.status === "draft" || post.status === "skipped" ? `        <button class="btn skip" data-act="skip" title="Delete post at image">&#128465;&#65039;</button>` : ""}
       </div>
     </div>
   </article>`;
