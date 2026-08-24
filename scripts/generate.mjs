@@ -47,12 +47,19 @@ async function main() {
   const posts = loadPosts();
   const pillar = pickPillar(pillars);
   const { dateStr } = phToday();
-  const id = `${dateStr}-${pillar.id}`;
+  const force = process.env.FORCE === "1";
+  let id = `${dateStr}-${pillar.id}`;
 
   const existing = posts.find((p) => p.id === id);
   if (existing && ["draft", "approved", "posted"].includes(existing.status)) {
-    console.log(`[skip] post ${id} already exists (${existing.status})`);
-    return;
+    if (!force) {
+      console.log(`[skip] post ${id} already exists (${existing.status})`);
+      return;
+    }
+    let n = 2;
+    while (posts.find((p) => p.id === `${id}-${n}`)) n++;
+    id = `${id}-${n}`;
+    console.log(`[force] duplicate allowed, new id: ${id}`);
   }
 
   const weekIndex = Math.floor(Date.now() / 604_800_000);

@@ -9,6 +9,10 @@ on:
         description: "Pillar id override (optional, e.g. tuesday-tech)"
         required: false
         default: ""
+      force:
+        description: "Force duplicate (suffix -2 kahit may post na today)"
+        required: false
+        default: "true"
 
 permissions:
   contents: write
@@ -36,6 +40,7 @@ jobs:
       - name: Generate today's post
         env:
           PILLAR: ${{ inputs.pillar }}
+          FORCE: ${{ inputs.force == 'true' && '1' || '' }}
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: node scripts/generate.mjs
 
