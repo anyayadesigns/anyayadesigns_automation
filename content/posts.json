@@ -24,20 +24,6 @@
         }
       },
       "postedAt": "2026-08-24T12:32:06.562Z"
-    },
-    {
-      "id": "20260824-tuesday-tech",
-      "createdAt": "2026-08-24T10:21:47.236Z",
-      "status": "skipped",
-      "pillarId": "tuesday-tech",
-      "kicker": "TECH TUESDAY",
-      "headline": "Paano tinatapos ng RSVP website ito",
-      "accent": "forever begins",
-      "caption": "Problem/solution: Nakakapagod mag-follow up ng 'Jo, pupunta ka ba?' — paano tinatapos ng RSVP website ito\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nReady to ditch the spreadsheet? Let's build your RSVP site. 💻 https://anyayadesigns.github.io/flow",
-      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #RSVPSystem #WeddingTech #ModernBride",
-      "image": "assets/posts/20260824-tuesday-tech.png",
-      "imagePrompt": "Problem/solution: Nakakapagod mag-follow up ng 'Jo, pupunta ka ba?' — paano tinatapos ng RSVP website ito. minimal tech-elegant composition, laptop showing elegant wedding website, cream background, sage accents, clean sophisticated layout, soft shadows",
-      "links": {}
     }
   ]
 }
