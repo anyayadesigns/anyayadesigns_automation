@@ -39,12 +39,13 @@ main{max-width:1100px;margin:0 auto;padding:26px 20px 80px}
 textarea,input.txt{width:100%;border:1px solid var(--blush);border-radius:10px;padding:10px 12px;font-family:"Jost";font-size:.9rem;color:var(--ink);background:var(--paper);resize:vertical}
 textarea:focus,input.txt:focus{outline:2px solid var(--sage)}
 .meta{font-size:.78rem;color:var(--warm)}
-.actions{display:flex;gap:8px;margin-top:auto;flex-wrap:wrap}
-.btn.approve{background:var(--sage-deep);color:#fff;flex:1}
-.btn.approve:hover{background:#4d5a43}
-.btn.save{background:var(--cream);border:1px solid var(--blush);color:var(--bark)}
-.btn.skip{background:transparent;border:1px solid var(--rosedust);color:var(--rosedust)}
-.btn:disabled{opacity:.5;cursor:not-allowed}
+.actions{display:flex;gap:16px;margin-top:auto;flex-wrap:wrap;align-items:center}
+.btn{font-family:"Jost";border:none;background:none;padding:2px 0;cursor:pointer;font-size:.85rem;letter-spacing:.05em;transition:.15s;text-decoration:underline;text-underline-offset:4px;text-decoration-color:transparent}
+.btn:hover{text-decoration-color:currentColor}
+.btn.approve{color:var(--sage-deep);font-weight:500}
+.btn.save{color:var(--warm)}
+.btn.skip{color:var(--rosedust)}
+.btn:disabled{opacity:.4;cursor:not-allowed}
 .status-pill{align-self:flex-start;font-size:.72rem;letter-spacing:.12em;text-transform:uppercase;padding:4px 12px;border-radius:999px;font-weight:500}
 .status-draft{background:var(--blush);color:var(--bark)}
 .status-posted{background:#e4ead9;color:var(--sage-deep)}
@@ -60,6 +61,10 @@ dialog::backdrop{background:rgba(35,32,27,.45)}
 .dialog-inner p{font-size:.88rem;color:var(--warm);margin-bottom:16px;line-height:1.5}
 .field{margin-bottom:14px}
 .field label{display:block;font-size:.78rem;letter-spacing:.1em;text-transform:uppercase;color:var(--bark);margin-bottom:5px}
+.dialog-inner .actions{gap:10px}
+.dialog-inner .btn{background:var(--sage-deep);color:#fff;padding:10px 24px;border-radius:999px;text-decoration:none;font-size:.9rem}
+.dialog-inner .btn.save{background:var(--cream);border:1px solid var(--blush);color:var(--bark)}
+.dialog-inner .btn:hover{opacity:.9;text-decoration:none}
 .toast{position:fixed;bottom:26px;left:50%;transform:translateX(-50%);background:var(--ink);color:var(--cream);padding:13px 26px;border-radius:999px;font-size:.9rem;opacity:0;transition:.3s;pointer-events:none;z-index:99;max-width:90vw;text-align:center}
 .toast.show{opacity:1}
 .lightbox{display:none;position:fixed;inset:0;background:rgba(35,32,27,.88);z-index:1000;align-items:center;justify-content:center;cursor:zoom-out;padding:24px}
