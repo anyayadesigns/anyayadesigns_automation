@@ -48,5 +48,6 @@ jobs:
             echo "Nothing new to commit"
           else
             git commit -m "✨ Generate post draft $(date -u +%Y-%m-%d)"
+            git pull --rebase origin main
             git push
           fi
