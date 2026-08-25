@@ -2,21 +2,6 @@
   "version": 1,
   "posts": [
     {
-      "id": "20260825-tuesday-tech",
-      "createdAt": "2026-08-25T00:28:07.217Z",
-      "status": "draft",
-      "pillarId": "tuesday-tech",
-      "layout": "list",
-      "kicker": "Tigil na sa pag-chase",
-      "headline": "Paano tinatapos ng *custom website* ang nakakapagod na RSVP follow-ups.",
-      "accent": "",
-      "caption": "Paulit-ulit na lang ba ang \"Jo, pupunta ka ba?\" sa chat list niyo?\n\nIt’s time to turn that wedding follow-up stress into seamless digital ease.\n\nReady to ditch the spreadsheet? Let's build your RSVP site. 💻 https://anyayadesigns.github.io/flow",
-      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #BridePH #PHWeddings #WeddingTech",
-      "image": "assets/posts/20260825-tuesday-tech.png",
-      "imagePrompt": "A minimal aesthetic flat lay of an elegant smartphone displaying a modern wedding RSVP website beside a stylish linen envelope and gold pen.",
-      "links": {}
-    },
-    {
       "id": "20260825-sunday-kilig",
       "createdAt": "2026-08-24T16:12:00.733Z",
       "status": "posted",
