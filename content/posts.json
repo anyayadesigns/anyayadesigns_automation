@@ -4,7 +4,7 @@
     {
       "id": "20260825-tuesday-tech",
       "createdAt": "2026-08-25T00:34:53.231Z",
-      "status": "approved",
+      "status": "posted",
       "pillarId": "tuesday-tech",
       "layout": "list",
       "kicker": "Paalam na sa mano-mano",
@@ -14,7 +14,17 @@
       "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingsPH #PinoyBride #TechTuesday",
       "image": "assets/posts/20260825-tuesday-tech.png",
       "imagePrompt": "A modern smartphone displaying an elegant wedding RSVP web application on a textured linen surface with minimalist floral decorations.",
-      "links": {}
+      "links": {
+        "facebook": {
+          "id": "1185505437979748_122120435163391548",
+          "permalink": "https://www.facebook.com/122120302437391548/posts/122120435163391548"
+        },
+        "instagram": {
+          "id": "18117007093928283",
+          "permalink": "https://www.instagram.com/p/Dcca-LAmr2r/"
+        }
+      },
+      "postedAt": "2026-08-25T01:08:22.788Z"
     },
     {
       "id": "20260825-sunday-kilig",
