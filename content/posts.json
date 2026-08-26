@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260826-wednesday-design",
+      "createdAt": "2026-08-26T00:29:25.841Z",
+      "status": "draft",
+      "pillarId": "wednesday-design",
+      "layout": "tips",
+      "kicker": "Para 'di mag-cramming",
+      "headline": "Para chill lang, eto ang *tamang timeline* ng inyong invitations.",
+      "accent": "",
+      "caption": "Ayaw natin ng stress sa wedding prep, lalo na sa pag-invite ng mga mahal sa buhay.\n\nSundin lang ang simple timeline na 'to para smooth at hassle-free ang pagpapadala ng inyong invites.\n\nNeed guidance? We'll walk you through every step. 🖋️ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #PHWeddings #WeddingPrepPH #BridePH",
+      "image": "assets/posts/20260826-wednesday-design.png",
+      "imagePrompt": "A warm, elegantly styled flat lay of modern minimalist wedding invitations with gold foil accents alongside a smartphone displaying an RSVP website on a soft linen backdrop.",
+      "links": {}
+    },
+    {
       "id": "20260825-tuesday-tech",
       "createdAt": "2026-08-25T00:34:53.231Z",
       "status": "posted",
