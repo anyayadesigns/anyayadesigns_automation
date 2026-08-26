@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260826-wednesday-design-2",
+      "createdAt": "2026-08-26T01:37:56.456Z",
+      "status": "draft",
+      "pillarId": "wednesday-design",
+      "layout": "tips",
+      "kicker": "Guide sa tamang timeline",
+      "headline": "Kailan nga ba dapat *ipamigay* ang inyong wedding invitations?",
+      "accent": "",
+      "caption": "Huwag nang ipagpaliban ang pag-hand-out ng invites para hassle-free ang confirmation ng guests.\n\nGiving everyone enough time helps them plan ahead, lalo na para sa mga out-of-town weddings.\n\nNeed guidance? We'll walk you through every step. 🖋️ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingTipsPH #PHWeddings #PinoyBride",
+      "image": "assets/posts/20260826-wednesday-design-2.png",
+      "imagePrompt": "A warm, photorealistic editorial flatlay featuring an elegant printed wedding invitation card next to a smartphone showing a beautifully designed online wedding RSVP website on textured beige linen.",
+      "links": {}
+    },
+    {
       "id": "20260826-wednesday-design",
       "createdAt": "2026-08-26T00:29:25.841Z",
       "status": "draft",
