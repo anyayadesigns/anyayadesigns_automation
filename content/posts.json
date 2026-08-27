@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260827-thursday-feature-2",
+      "createdAt": "2026-08-27T05:14:07.053Z",
+      "status": "draft",
+      "pillarId": "thursday-feature",
+      "layout": "list",
+      "kicker": "Laman ng Anyaya suite",
+      "headline": "Bawat detalye ay *sinadya* para sa inyong pinakamahalagang araw.",
+      "accent": "",
+      "caption": "Mula sa haplos ng papel hanggang sa unang click ng inyong bisita, kumpleto at may alaga ang bawat suite.\n\nHindi lang basta imbitasyon—isa itong magandang kwento na nakatago sa sobre.\n\nSlots are limited per month to keep quality high. Reserve yours! ⏳ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #LuxuryInvitationsPH #PinoyWeddings #InvitationSuite",
+      "image": "assets/posts/20260827-thursday-feature-2.png",
+      "imagePrompt": "An elegant editorial flatlay of luxury wedding invitations featuring textured cotton paper, gold foil stamping, custom wax seals, and a smartphone showing a matching digital RSVP website.",
+      "links": {}
+    },
+    {
       "id": "20260827-thursday-feature",
       "createdAt": "2026-08-27T05:13:23.954Z",
       "status": "draft",
