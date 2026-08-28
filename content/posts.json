@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260828-friday-faq",
+      "createdAt": "2026-08-28T07:12:51.154Z",
+      "status": "draft",
+      "pillarId": "friday-faq",
+      "layout": "question",
+      "kicker": "Mabilisang tanong lang",
+      "headline": "Gaano nga ba *kabilis* bago ninyo ma-send ang digital invitations ninyo?",
+      "accent": "",
+      "caption": "Usually 2 to 3 weeks lang mula brief hanggang turnover ng inyong custom RSVP website at print-ready files.\n\nMay express options din tayo para sa mga kailangang mag-send agad ng imbitasyon.\n\nRelax ka lang, kami na ang bahala sa stress-free timeline ninyo.\n\nGot more questions? Our inbox is always open. 💌 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #PinoyWeddings #WeddingPrepPH #DebutPH",
+      "image": "assets/posts/20260828-friday-faq.png",
+      "imagePrompt": "A warm photorealistic overhead shot of a wedding planner using an iPad displaying an interactive wedding invitation website next to elegant printed cards on a wooden desk.",
+      "links": {}
+    },
+    {
       "id": "20260827-thursday-feature-2",
       "createdAt": "2026-08-27T05:14:07.053Z",
       "status": "draft",
