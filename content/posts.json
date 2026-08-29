@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260829-saturday-bts",
+      "createdAt": "2026-08-29T04:24:24.576Z",
+      "status": "draft",
+      "pillarId": "saturday-bts",
+      "layout": "photo",
+      "kicker": "Mula sa aming studio",
+      "headline": "Bawat balot, punong-puno ng *pagmamahal* at excitement para sa inyo.",
+      "accent": "Packed with kilig",
+      "caption": "Sabado na naman, at busy uli ang studio sa pag-iimpake ng inyong printed invitations.\n\nBawat ribbon, wax seal, at card detail ay maingat na inihahanda para sa inyong special day.\n\nDamang-dama namin ang kilig habang iniisip ang reaksyon ng guests ninyo.\n\nEvery order is personal to us. Salamat sa pagtitiwala! 💚 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #BehindTheScenes #WeddingStationeryPH #InvitesPH #FilipinoWeddings",
+      "image": "assets/posts/20260829-saturday-bts.png",
+      "imagePrompt": "A close-up aesthetic shot of hands carefully tying a silk ribbon around an elegant cream-colored wedding invitation suite with customized wax seals on a wooden studio table.",
+      "links": {}
+    },
+    {
       "id": "20260828-friday-faq",
       "createdAt": "2026-08-28T07:12:51.154Z",
       "status": "draft",
