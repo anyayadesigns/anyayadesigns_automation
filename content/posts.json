@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260830-sunday-kilig",
+      "createdAt": "2026-08-30T01:52:09.436Z",
+      "status": "draft",
+      "pillarId": "sunday-kilig",
+      "layout": "quote",
+      "kicker": "Salamat sa tiwala",
+      "headline": "Salamat sa bawat couple na nagtiwalang *ihabi* namin ang kuwento niyo.",
+      "accent": "",
+      "caption": "Isang magandang Linggo para magpasalamat sa lahat ng nagtiwala sa amin ngayong buwan.\n\nAng bawat kwento ng pag-ibig ninyo ang nagbibigay-buhay sa aming mga ginagawa.\n\nMaraming salamat sa pagpapahintulot na maging bahagi kami ng inyong espesyal na araw.\n\nStart your forever beautifully. https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #SweetSunday #PinoyWeddings #FilipinoWeddings",
+      "image": "assets/posts/20260830-sunday-kilig.png",
+      "imagePrompt": "An elegant minimalist flat lay of textured beige paper invitation suites with gold foil typography and soft cream ribbon resting on a warm wooden surface illuminated by natural sunlight.",
+      "links": {}
+    },
+    {
       "id": "20260829-saturday-bts",
       "createdAt": "2026-08-29T04:24:24.576Z",
       "status": "draft",
