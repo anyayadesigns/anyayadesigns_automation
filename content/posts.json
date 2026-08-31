@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260831-monday-inspiration",
+      "createdAt": "2026-08-31T01:47:03.134Z",
+      "status": "draft",
+      "pillarId": "monday-inspiration",
+      "layout": "photo",
+      "kicker": "Old Money Aesthetic",
+      "headline": "Paano nga ba idaan sa *quiet luxury* ang inyong wedding invitations?",
+      "accent": "Timeless & Refined",
+      "caption": "Ang totoong old money elegance, wala sa sobrang abubot—nasa malinis na typography at refined details.\n\nFrom subtle monogram motifs to sleek digital RSVP portals, we translate understated class into your dream invitation suite.\n\nSave this peg! When you're ready, Anyaya Designs can make it real. ✨ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #OldMoneyWedding #QuietLuxury #WeddingInspirationPH #FilipinoWeddings",
+      "image": "assets/posts/20260831-monday-inspiration.png",
+      "imagePrompt": "A flat lay photograph of elegant ivory wedding invitations featuring delicate monograms, wax seals, vintage gold rings, and white roses on a natural beige linen surface.",
+      "links": {}
+    },
+    {
       "id": "20260830-sunday-kilig",
       "createdAt": "2026-08-30T01:52:09.436Z",
       "status": "draft",
