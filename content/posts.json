@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260901-tuesday-tech",
+      "createdAt": "2026-09-01T02:10:38.366Z",
+      "status": "draft",
+      "pillarId": "tuesday-tech",
+      "layout": "list",
+      "kicker": "Bakit hindi sapat ang GC",
+      "headline": "Limang bagay na kaya ng *RSVP site* mo na hindi magagawa ng GC.",
+      "accent": "",
+      "caption": "Nakakapagod mag-backread sa GC para lang mag-tally ng mga dadalo.\n\nGive your guests an effortless experience with a sleek, interactive RSVP site that handles everything automatically.\n\nLess stress, more kilig. Get your own RSVP website today. 💌 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #TechTuesday #PinoyWeddings #ModernWeddingPH",
+      "image": "assets/posts/20260901-tuesday-tech.png",
+      "imagePrompt": "A modern mobile phone displaying an elegant wedding RSVP website rests on a minimalist linen surface next to white floral blooms and delicate stationery.",
+      "links": {}
+    },
+    {
       "id": "20260831-monday-inspiration",
       "createdAt": "2026-08-31T01:47:03.134Z",
       "status": "draft",
