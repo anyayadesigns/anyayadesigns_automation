@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260902-wednesday-design",
+      "createdAt": "2026-09-02T01:33:47.639Z",
+      "status": "draft",
+      "pillarId": "wednesday-design",
+      "layout": "tips",
+      "kicker": "Kumpleto ba ang detalye",
+      "headline": "Ano nga ba ang *dapat* nakasulat sa wedding invitation ninyo?",
+      "accent": "",
+      "caption": "Huwag hayaang malito ang guests ninyo sa mismong araw ng kasal.\n\nSiguraduhing kumpleto at madaling i-access ang lahat ng detalye sa tulong ng digital at printed invitation suite.\n\nYour love story, beautifully told. Order your invitations today. ✨ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #PHWeddings #KasalangPilipino #WeddingPrepPH",
+      "image": "assets/posts/20260902-wednesday-design.png",
+      "imagePrompt": "A top-down aesthetic flat lay of elegant cream-colored wedding invitation cards alongside a modern smartphone displaying an interactive invitation web page, styled with neutral linen and dried botanical elements.",
+      "links": {}
+    },
+    {
       "id": "20260901-tuesday-tech",
       "createdAt": "2026-09-01T02:10:38.366Z",
       "status": "draft",
