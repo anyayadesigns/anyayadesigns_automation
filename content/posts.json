@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260903-thursday-feature",
+      "createdAt": "2026-09-03T01:37:22.672Z",
+      "status": "draft",
+      "pillarId": "thursday-feature",
+      "layout": "list",
+      "kicker": "Proseso ng Anyaya",
+      "headline": "Mula sa iyong *vision* hanggang sa inbox ng mga bisita mo.",
+      "accent": "",
+      "caption": "Ayaw natin sa ma-stress sa wedding prep, 'di ba?\n\nKaya ginawa naming kasing dali ng chat message ang pagpapagawa ng custom digital invites mo.\n\nFrom brief to launch, kami na ang bahala sa bawat detalye para chill ka lang.\n\nSee full packages here → https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingsPH #PinoyWeddings #FilipinoBride",
+      "image": "assets/posts/20260903-thursday-feature.png",
+      "imagePrompt": "An elegant flat lay featuring a modern smartphone displaying a floral digital wedding invitation next to luxury linen printed cards on a warm neutral textured background with gentle morning sunlight.",
+      "links": {}
+    },
+    {
       "id": "20260902-wednesday-design",
       "createdAt": "2026-09-02T01:33:47.639Z",
       "status": "draft",
