@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260904-friday-faq",
+      "createdAt": "2026-09-04T01:34:48.244Z",
+      "status": "draft",
+      "pillarId": "friday-faq",
+      "layout": "question",
+      "kicker": "Madalas itanong sa amin",
+      "headline": "Pwede pa ba magbago ng *layout* habang ginagawa na ang invitation?",
+      "accent": "",
+      "caption": "Yes, pwede na pwede magpa-change ng design sa ating revision rounds!\n\nMula sa motif hanggang sa guest details, sisiguraduhin nating swak ito sa dream aesthetic ninyo.\n\nSave this for your wedding planning journey! 🔖 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #FAQFriday #WeddingPlanningPH #FilipinoWeddings",
+      "image": "assets/posts/20260904-friday-faq.png",
+      "imagePrompt": "A minimalist and elegant aesthetic scene showing a sleek smartphone displaying an interactive wedding invitation website next to fine stationery cards on a beige linen texture.",
+      "links": {}
+    },
+    {
       "id": "20260903-thursday-feature",
       "createdAt": "2026-09-03T01:37:22.672Z",
       "status": "draft",
