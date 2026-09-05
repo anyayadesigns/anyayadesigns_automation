@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260905-saturday-bts",
+      "createdAt": "2026-09-05T01:32:19.438Z",
+      "status": "draft",
+      "pillarId": "saturday-bts",
+      "layout": "photo",
+      "kicker": "Behind the print",
+      "headline": "Bakit *sulit* ang mag-sample print muna bago ang final production.",
+      "accent": "quality first",
+      "caption": "Para makasiguro tayong eksakto ang kulay, texture, at bawat detalye ng invitations ninyo.\n\nWalang hula-hula—pina-perfect muna natin ang sample bago i-print ang buong batch.\n\nKnow a couple getting married? Tag them below! 👇 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #BehindTheScenes #QualityCheck #FilipinoWeddings #WeddingStationery",
+      "image": "assets/posts/20260905-saturday-bts.png",
+      "imagePrompt": "A close-up top-down view of a designer inspecting a printed luxury wedding invitation sample with gold foil embellishments on an elegant wooden workbench.",
+      "links": {}
+    },
+    {
       "id": "20260904-friday-faq",
       "createdAt": "2026-09-04T01:34:48.244Z",
       "status": "draft",
