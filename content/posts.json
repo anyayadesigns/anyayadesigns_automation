@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260907-monday-inspiration",
+      "createdAt": "2026-09-07T01:25:20.171Z",
+      "status": "draft",
+      "pillarId": "monday-inspiration",
+      "layout": "photo",
+      "kicker": "Modern Filipiniana Moodboard",
+      "headline": "Sino'ng nagsabing pang-old school ang Filipiniana kapag *modern debut* na?",
+      "accent": "Terno Reimagined",
+      "caption": "Sino'ng nagsabing pormal at seryoso lang ang Filipiniana?\n\nMix woven textures and embroidered details with sleek digital RSVP features for an 18th birthday that feels timeless.\n\nGawing memorable ang pagpasok mo sa panibagong kabanata.\n\nWhich detail is your favorite? Comment below! 👇 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #DebutPH #ModernFilipiniana #DebutInvitations #FilipinianaDebut #EventDesignPH",
+      "image": "assets/posts/20260907-monday-inspiration.png",
+      "imagePrompt": "A sophisticated flatlay moodboard featuring modern Filipiniana debut invitation suites with woven Inabel paper textures, gold foil accents, dried floral details, and an elegant smartphone displaying a matching interactive web RSVP page.",
+      "links": {}
+    },
+    {
       "id": "20260906-sunday-kilig",
       "createdAt": "2026-09-06T01:26:18.011Z",
       "status": "draft",
