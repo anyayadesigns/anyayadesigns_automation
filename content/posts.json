@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260908-tuesday-tech",
+      "createdAt": "2026-09-08T01:35:00.910Z",
+      "status": "draft",
+      "pillarId": "tuesday-tech",
+      "layout": "list",
+      "kicker": "Para sa wedding budget",
+      "headline": "Paano ka *makakatipid* nang malaki sa catering ngayong kasal mo",
+      "accent": "",
+      "caption": "Ang hirap magbayad ng catering para sa mga hindi naman pala makakapunta.\n\nWith a live RSVP dashboard, exact headcount agad ang hawak mo bago ang final headcount submission.\n\nBawas overspending, bawas din ang sakit ng ulo sa paggasta!\n\nTag a bride who needs this! 😅 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingsPH #PinoyWeddings #WeddingBudgetTips #TechTuesday",
+      "image": "assets/posts/20260908-tuesday-tech.png",
+      "imagePrompt": "An aesthetic flatlay of a bride's wedding planning table featuring a modern smartphone displaying a stylish online wedding guest list dashboard next to elegant gold foil printed invitation cards.",
+      "links": {}
+    },
+    {
       "id": "20260907-monday-inspiration",
       "createdAt": "2026-09-07T01:25:20.171Z",
       "status": "draft",
