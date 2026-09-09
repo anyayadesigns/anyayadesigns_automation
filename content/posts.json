@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260909-wednesday-design",
+      "createdAt": "2026-09-09T01:42:18.526Z",
+      "status": "draft",
+      "pillarId": "wednesday-design",
+      "layout": "tips",
+      "kicker": "Hawakan mo muna",
+      "headline": "Iba ang pakiramdam kapag *premium* ang papel ng inyong imbitasyon.",
+      "accent": "",
+      "caption": "Ang totoong ganda ng imbitasyon, hindi lang nakikita — nararamdaman din.\nWhen guests hold a thick, textured card, they instantly know your wedding will be special.\nInvest in print quality that sets the tone for your big day.\nShare this with someone planning their wedding! 💍 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #CustomInvitationsPH #WeddingPaperGoods #PrintInvitationsPH",
+      "image": "assets/posts/20260909-wednesday-design.png",
+      "imagePrompt": "A close-up aesthetic shot of luxury textured wedding invitation cards with gold foil lettering resting on an elegant linen tablecloth with soft warm lighting.",
+      "links": {}
+    },
+    {
       "id": "20260908-tuesday-tech",
       "createdAt": "2026-09-08T01:35:00.910Z",
       "status": "draft",
