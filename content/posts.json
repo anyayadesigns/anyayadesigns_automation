@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260911-friday-faq",
+      "createdAt": "2026-09-11T01:36:21.681Z",
+      "status": "draft",
+      "pillarId": "friday-faq",
+      "layout": "quote",
+      "kicker": "FAQ Friday",
+      "headline": "Here's proof",
+      "accent": "made with love",
+      "caption": "'Paano yung guests na hindi techy?' The link just works — here's proof\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nMay question ka? Comment below at sasagutin namin! 💬 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingPlanningPH #FAQ",
+      "image": "assets/posts/20260911-friday-faq.png",
+      "imagePrompt": "'Paano yung guests na hindi techy?' The link just works — here's proof",
+      "links": {}
+    },
+    {
       "id": "20260910-thursday-feature",
       "createdAt": "2026-09-10T01:37:13.850Z",
       "status": "draft",
