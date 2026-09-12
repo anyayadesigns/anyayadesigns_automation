@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260912-saturday-bts",
+      "createdAt": "2026-09-12T01:42:23.063Z",
+      "status": "draft",
+      "pillarId": "saturday-bts",
+      "layout": "photo",
+      "kicker": "Silip sa studio",
+      "headline": "Bawat detail at pixel ay tinitimpla para *perpekto* ang RSVP niyo.",
+      "accent": "pixel by pixel",
+      "caption": "Designing your web invitation isn't just about coding—it's about telling your love story visually.\n\nMula sa typography hanggang sa seamless RSVP buttons, sinisiguro naming smooth ang experience ng bawat bisita.\n\nFollow along for more behind-the-scenes! 🛠️ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #BehindTheScenes #PinoyWeddings #WebDesignPH",
+      "image": "assets/posts/20260912-saturday-bts.png",
+      "imagePrompt": "A warm, photorealistic shot of an aesthetic workspace with a laptop screen displaying a sleek wedding website design, surrounded by paper swatches and a warm coffee mug.",
+      "links": {}
+    },
+    {
       "id": "20260911-friday-faq",
       "createdAt": "2026-09-11T01:36:21.681Z",
       "status": "draft",
