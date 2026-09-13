@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260913-sunday-kilig",
+      "createdAt": "2026-09-13T01:32:54.934Z",
+      "status": "draft",
+      "pillarId": "sunday-kilig",
+      "layout": "quote",
+      "kicker": "Isang paalala ngayong Linggo",
+      "headline": "Bawat maliit na detalye, nagiging bahagi ng *alaala* na babalikan niyo habambuhay.",
+      "accent": "",
+      "caption": "Hayaan mong maging kasing-ganda ng mismong araw ang simula ng inyong kwento.\n\nFrom the interactive web RSVP to the printed keepsakes, every detail sets the tone for your big day.\n\nWhen you're ready, we're here. 🤍 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #FilipinoWeddings #SundayThought #EventDetails",
+      "image": "assets/posts/20260913-sunday-kilig.png",
+      "imagePrompt": "A minimalist aesthetic flatlay of an elegant wedding invitation suite on fine linen fabric bathed in warm, soft Sunday sunlight.",
+      "links": {}
+    },
+    {
       "id": "20260912-saturday-bts",
       "createdAt": "2026-09-12T01:42:23.063Z",
       "status": "draft",
