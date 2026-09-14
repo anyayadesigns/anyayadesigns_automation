@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260914-monday-inspiration",
+      "createdAt": "2026-09-14T01:50:55.954Z",
+      "status": "draft",
+      "pillarId": "monday-inspiration",
+      "layout": "photo",
+      "kicker": "Para sa garden wedding",
+      "headline": "Pinaghalong liwanag at bulaklak para sa inyong *pangarap* na kasal.",
+      "accent": "soft garden romance",
+      "caption": "May ibang ganda talaga kapag sinamahan ng sariwang bulaklak at liwanag ang inyong imbitasyon.\n\nPresko, magaan, at puno ng buhay para sa inyong espesyal na araw.\n\nDreaming of this theme? Send us a message and let's design it together. 💌 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #GardenWeddingPH #MoodboardMonday #WeddingInspirationPH #FilipinoWeddings",
+      "image": "assets/posts/20260914-monday-inspiration.png",
+      "imagePrompt": "An aesthetic flat lay moodboard of a light and airy garden wedding featuring botanical invitation suites, soft pastel florals, delicate ribbons, and golden sunlight streaming across a textured linen background.",
+      "links": {}
+    },
+    {
       "id": "20260913-sunday-kilig",
       "createdAt": "2026-09-13T01:32:54.934Z",
       "status": "draft",
