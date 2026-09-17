@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260917-thursday-feature",
+      "createdAt": "2026-09-17T01:55:19.864Z",
+      "status": "draft",
+      "pillarId": "thursday-feature",
+      "layout": "list",
+      "kicker": "Upgraded wedding vibe",
+      "headline": "Mas *special* ang feeling kapag may sariling domain ang kasal.",
+      "accent": "",
+      "caption": "Imagine sending an invite link that actually has both of your names in it.\n\nSobrang polished ng dating at mas madaling tandaan ng guests niyo from day one.\n\nSlots are limited per month to keep quality high. Reserve yours! ⏳ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #CustomDomain #WeddingPrepPH #FilipinoWedding",
+      "image": "assets/posts/20260917-thursday-feature.png",
+      "imagePrompt": "An elegant modern desk scene with a slim laptop displaying a minimalist customized wedding website alongside luxury paper stationery and muted floral accents, photorealistic.",
+      "links": {}
+    },
+    {
       "id": "20260916-wednesday-design",
       "createdAt": "2026-09-16T01:51:02.892Z",
       "status": "draft",
