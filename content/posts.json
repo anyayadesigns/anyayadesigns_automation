@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260918-friday-faq",
+      "createdAt": "2026-09-18T01:42:24.262Z",
+      "status": "draft",
+      "pillarId": "friday-faq",
+      "layout": "question",
+      "kicker": "Ang honest truth",
+      "headline": "Kailangan pa ba ng *printed* card kung may interactive website na?",
+      "accent": "",
+      "caption": "Websites make RSVPs and venue maps effortless, habang priceless keepsake naman ang printed cards for your VIPs and grandparents.\n\nGoing hybrid gives you the perfect balance of modern convenience and timeless tradition.\n\nGot more questions? Our inbox is always open. 💌 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #FilipinoWeddings #WeddingPrepPH #DebutPH",
+      "image": "assets/posts/20260918-friday-faq.png",
+      "imagePrompt": "An editorial flatlay featuring a luxury textured paper wedding invitation card next to a sleek smartphone displaying a matching aesthetic wedding website on a warm neutral marble table with soft natural shadows.",
+      "links": {}
+    },
+    {
       "id": "20260917-thursday-feature",
       "createdAt": "2026-09-17T01:55:19.864Z",
       "status": "draft",
