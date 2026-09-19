@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260919-saturday-bts",
+      "createdAt": "2026-09-19T01:47:10.118Z",
+      "status": "draft",
+      "pillarId": "saturday-bts",
+      "layout": "photo",
+      "kicker": "Mula sa aming studio",
+      "headline": "Bawat customized invite na nabubuo natin, *paalala* na buhay ang pangarap.",
+      "accent": "Small wins",
+      "caption": "Isa na namang linggo na puno ng pag-ibig ang naisalin natin sa paper at screens.\n\nNakakataba ng puso na maging bahagi ng inyong pinakamahahalagang milestone.\n\nEvery order is personal to us. Salamat sa pagtitiwala! 💚 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #BehindTheScenes #SmallBizPH #PinoyWeddings",
+      "image": "assets/posts/20260919-saturday-bts.png",
+      "imagePrompt": "A warm photorealistic shot of a cozy design studio desk with elegant wedding invitations, delicate dried flowers, a laptop showing a custom web invitation, and soft warm lighting.",
+      "links": {}
+    },
+    {
       "id": "20260918-friday-faq",
       "createdAt": "2026-09-18T01:42:24.262Z",
       "status": "draft",
