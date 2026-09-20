@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260920-sunday-kilig",
+      "createdAt": "2026-09-20T01:49:25.063Z",
+      "status": "draft",
+      "pillarId": "sunday-kilig",
+      "layout": "quote",
+      "kicker": "Sweet Sunday",
+      "headline": "Counting down to your big *day?* Make every detail count.",
+      "accent": "kilig, delivered",
+      "caption": "Counting down to your big day? Make every detail count.\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nStart your forever beautifully. https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #LoveStory #ForeverBegins",
+      "image": "assets/posts/20260920-sunday-kilig.png",
+      "imagePrompt": "Counting down to your big day? Make every detail count.",
+      "links": {}
+    },
+    {
       "id": "20260919-saturday-bts",
       "createdAt": "2026-09-19T01:47:10.118Z",
       "status": "draft",
