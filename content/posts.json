@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260922-tuesday-tech",
+      "createdAt": "2026-09-22T01:59:59.310Z",
+      "status": "draft",
+      "pillarId": "tuesday-tech",
+      "layout": "list",
+      "kicker": "Ang ultimate tandem",
+      "headline": "Bakit ka pipili kung pwedeng *magkasama* ang print at digital?",
+      "accent": "",
+      "caption": "Elegante hawakan ang physical invite, pero iba rin ang ginhawa ng digital RSVP.\n\nGive your guests the best of both worlds without the manual tracking headache.\n\nLess stress, more kilig. Get your own RSVP website today. 💌 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #FilipinoWeddings #WeddingPrepsPH #OnlineRSVP",
+      "image": "assets/posts/20260922-tuesday-tech.png",
+      "imagePrompt": "A top-down aesthetic photo of an elegant textured paper wedding invitation placed next to a smartphone showing a modern digital RSVP landing page on a warm linen backdrop with dried flowers.",
+      "links": {}
+    },
+    {
       "id": "20260921-monday-inspiration",
       "createdAt": "2026-09-21T01:50:34.045Z",
       "status": "draft",
