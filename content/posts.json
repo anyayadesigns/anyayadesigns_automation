@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260923-wednesday-design",
+      "createdAt": "2026-09-23T01:56:52.199Z",
+      "status": "draft",
+      "pillarId": "wednesday-design",
+      "layout": "tips",
+      "kicker": "Sining ng tamang wording",
+      "headline": "Paano gawing simple ngunit *elegante* ang bawat linya sa inyong invitation.",
+      "accent": "",
+      "caption": "Hindi kailangang sobrang pormal para maging elegante ang inyong imbitasyon.\n\nA few simple tweaks can make your invitation text feel intimate, modern, and effortless.\n\nEto ang secret para ramdam agad ng guests ang warm welcome ninyo mula pa sa unang basa.\n\nYour love story, beautifully told. Order your invitations today. ✨ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingWording #FilipinoWeddings #WeddingTipsPH",
+      "image": "assets/posts/20260923-wednesday-design.png",
+      "imagePrompt": "A close-up photograph of an elegant minimalist wedding invitation suite featuring sophisticated typography on warm ivory paper, surrounded by fine line accents and delicate botanical elements.",
+      "links": {}
+    },
+    {
       "id": "20260922-tuesday-tech",
       "createdAt": "2026-09-22T01:59:59.310Z",
       "status": "draft",
