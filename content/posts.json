@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260924-thursday-feature",
+      "createdAt": "2026-09-24T01:45:47.439Z",
+      "status": "draft",
+      "pillarId": "thursday-feature",
+      "layout": "list",
+      "kicker": "Feature Thursday",
+      "headline": "See confirmations *live,* anywhere",
+      "accent": "forever begins",
+      "caption": "Spotlight: Our RSVP dashboard — see confirmations live, anywhere\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nSee full packages here → https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #SmallBusinessPH #SupportLocalPH",
+      "image": "assets/posts/20260924-thursday-feature.png",
+      "imagePrompt": "Spotlight: Our RSVP dashboard — see confirmations live, anywhere",
+      "links": {}
+    },
+    {
       "id": "20260923-wednesday-design",
       "createdAt": "2026-09-23T01:56:52.199Z",
       "status": "draft",
