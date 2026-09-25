@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260925-friday-faq",
+      "createdAt": "2026-09-25T02:02:33.290Z",
+      "status": "draft",
+      "pillarId": "friday-faq",
+      "layout": "quote",
+      "kicker": "FAQ Friday",
+      "headline": "What affects the *cost* of your package",
+      "accent": "forever begins",
+      "caption": "Magkano po? Honest pricing talk — what affects the cost of your package\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nSave this for your wedding planning journey! 🔖 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingPlanningPH #FAQ",
+      "image": "assets/posts/20260925-friday-faq.png",
+      "imagePrompt": "Magkano po? Honest pricing talk — what affects the cost of your package",
+      "links": {}
+    },
+    {
       "id": "20260924-thursday-feature",
       "createdAt": "2026-09-24T01:45:47.439Z",
       "status": "draft",
