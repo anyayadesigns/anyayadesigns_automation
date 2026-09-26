@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260926-saturday-bts",
+      "createdAt": "2026-09-26T02:08:20.070Z",
+      "status": "draft",
+      "pillarId": "saturday-bts",
+      "layout": "photo",
+      "kicker": "Mula sa unang sketch",
+      "headline": "Mula sa simpleng *drawing* hanggang sa opisyal na send-off ng inyong *invitation*.",
+      "accent": "bawat detalye",
+      "caption": "Hindi lang basta layout—bawat detalye ay binuo mula sa mismong kwento ninyong dalawa.\n\nFrom pencil drafts to interactive web features, we make sure every click feels intimate and special.\n\nSama-sama nating buhayin ang pangarap mong imbitasyon.\n\nKnow a couple getting married? Tag them below! 👇 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #BehindTheScenes #PHWeddings #CustomInvitations #BridalPH",
+      "image": "assets/posts/20260926-saturday-bts.png",
+      "imagePrompt": "A cozy, aesthetically lit designer workspace featuring hands sketching elegant floral motifs on paper alongside an open laptop showing an interactive wedding website draft.",
+      "links": {}
+    },
+    {
       "id": "20260925-friday-faq",
       "createdAt": "2026-09-25T02:02:33.290Z",
       "status": "draft",
