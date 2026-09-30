@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20260930-wednesday-design",
+      "createdAt": "2026-09-30T02:33:32.511Z",
+      "status": "draft",
+      "pillarId": "wednesday-design",
+      "layout": "tips",
+      "kicker": "Huwag magpa huli sa timeline",
+      "headline": "Kailan nga ba dapat *ihanda* at *ipamigay* ang inyong wedding invitations?",
+      "accent": "",
+      "caption": "Para hindi kayo ma-stress sa huli, i-bookmark itong simple invitation timeline.\n\nBigyan ang guests ng sapat na oras para makapag-prep at mag-RSVP nang maayos.\n\nShare this with someone planning their wedding! 💍 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #PHWeddings #WeddingTimeline #WeddingTipsPH",
+      "image": "assets/posts/20260930-wednesday-design.png",
+      "imagePrompt": "A top-down aesthetic flat lay of modern wedding stationery, cream envelopes with gold wax seals, next to a smartphone showing an interactive wedding RSVP website on a textured stone background.",
+      "links": {}
+    },
+    {
       "id": "20260929-tuesday-tech",
       "createdAt": "2026-09-29T02:52:12.411Z",
       "status": "draft",
