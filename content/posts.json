@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261001-thursday-feature",
+      "createdAt": "2026-10-01T02:36:13.117Z",
+      "status": "draft",
+      "pillarId": "thursday-feature",
+      "layout": "list",
+      "kicker": "Feature Thursday",
+      "headline": "What's inside your *Anyaya* invitation package (paper,",
+      "accent": "beautifully yours",
+      "caption": "What's inside your Anyaya invitation package (paper, finish, extras)\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nCurious about this service? DM us 'ANYAYA' and we'll send the details. 📩 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #SmallBusinessPH #SupportLocalPH",
+      "image": "assets/posts/20261001-thursday-feature.png",
+      "imagePrompt": "What's inside your Anyaya invitation package (paper, finish, extras)",
+      "links": {}
+    },
+    {
       "id": "20260930-wednesday-design",
       "createdAt": "2026-09-30T02:33:32.511Z",
       "status": "draft",
