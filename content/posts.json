@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261002-friday-faq",
+      "createdAt": "2026-10-02T02:41:23.225Z",
+      "status": "draft",
+      "pillarId": "friday-faq",
+      "layout": "question",
+      "kicker": "Sagot sa tanong niyo",
+      "headline": "Gaano ba talaga *kabilis* makuha ang dream digital invitation niyo?",
+      "accent": "",
+      "caption": "Mula initial brief hanggang final web link, usually 2 to 3 weeks lang ang lead time natin.\n\nHuwag mag-alala kung medyo rush, kakayanin natin 'yan nang elegant pa rin.\n\nMay question ka? Comment below at sasagutin namin! 💬 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #FAQFriday #OnlineRSVP #WeddingPrepsPH",
+      "image": "assets/posts/20261002-friday-faq.png",
+      "imagePrompt": "A minimalist and modern editorial photo of a smartphone displaying a stylish floral digital invitation beside a delicate ribbon and paper sample on a warm textured cream surface.",
+      "links": {}
+    },
+    {
       "id": "20261001-thursday-feature",
       "createdAt": "2026-10-01T02:36:13.117Z",
       "status": "draft",
