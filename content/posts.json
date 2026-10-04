@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261004-sunday-kilig",
+      "createdAt": "2026-10-04T02:57:39.123Z",
+      "status": "draft",
+      "pillarId": "sunday-kilig",
+      "layout": "quote",
+      "kicker": "Mula sa aming puso",
+      "headline": "Salamat sa pagpapahiram ng inyong kwento para maging *sining* ng imbitasyon.",
+      "accent": "",
+      "caption": "Bawat imbitasyong ginagawa namin, may baong pagmamahal at kwento ninyo.\n\nSalamat sa pagtitiwala sa Anyaya Designs ngayong buwan para sa inyong special day.\n\nIt is truly an honor to be part of your beautiful journey.\n\nWhen you're ready, we're here. 🤍 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #PHWeddings #FilipinoWeddings #SundayGratitude",
+      "image": "assets/posts/20261004-sunday-kilig.png",
+      "imagePrompt": "A minimalist flat lay photo of elegant cream-colored wedding invitation cards with sophisticated typography alongside a sleek smartphone displaying a modern digital RSVP webpage on a soft linen backdrop with warm sunlight.",
+      "links": {}
+    },
+    {
       "id": "20261002-friday-faq",
       "createdAt": "2026-10-02T02:41:23.225Z",
       "status": "draft",
