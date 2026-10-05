@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261005-monday-inspiration",
+      "createdAt": "2026-10-05T02:31:32.179Z",
+      "status": "draft",
+      "pillarId": "monday-inspiration",
+      "layout": "quote",
+      "kicker": "Moodboard Monday",
+      "headline": "How it *translates* to invitations",
+      "accent": "beautifully yours",
+      "caption": "Theme peg: 'Old money' elegant wedding — how it translates to invitations\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nDreaming of this theme? Send us a message and let's design it together. 💌 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingPegs #WeddingInspo",
+      "image": "assets/posts/20261005-monday-inspiration.png",
+      "imagePrompt": "Theme peg: 'Old money' elegant wedding — how it translates to invitations",
+      "links": {}
+    },
+    {
       "id": "20261004-sunday-kilig",
       "createdAt": "2026-10-04T02:57:39.123Z",
       "status": "draft",
