@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261008-thursday-feature",
+      "createdAt": "2026-10-08T03:08:23.452Z",
+      "status": "draft",
+      "pillarId": "thursday-feature",
+      "layout": "list",
+      "kicker": "Feature Thursday",
+      "headline": "How ordering works: from *design* brief to delivery in",
+      "accent": "made with love",
+      "caption": "How ordering works: from design brief to delivery in days\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nSlots are limited per month to keep quality high. Reserve yours! ⏳ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #SmallBusinessPH #SupportLocalPH",
+      "image": "assets/posts/20261008-thursday-feature.png",
+      "imagePrompt": "How ordering works: from design brief to delivery in days",
+      "links": {}
+    },
+    {
       "id": "20261007-wednesday-design",
       "createdAt": "2026-10-07T02:49:47.009Z",
       "status": "draft",
