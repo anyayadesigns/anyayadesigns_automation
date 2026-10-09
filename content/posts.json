@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261009-friday-faq",
+      "createdAt": "2026-10-09T03:13:41.411Z",
+      "status": "draft",
+      "pillarId": "friday-faq",
+      "layout": "question",
+      "kicker": "Tanong ng karamihan",
+      "headline": "Pwede pa ba mag-change ng design kapag biglang may *bago* kayong naisip?",
+      "accent": "",
+      "caption": "Oo naman, kasama talaga sa process natin ang revisions para makuha ang dream look niyo.\n\nTutulungan ka naming i-polish ang bawat detalye step-by-step.\n\nGot more questions? Our inbox is always open. 💌 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #FAQFriday #PinoyWeddings #DebutPrepPH",
+      "image": "assets/posts/20261009-friday-faq.png",
+      "imagePrompt": "A sleek modern desk setup with a tablet displaying a minimalist wedding invitation layout next to chic stationery samples and warm sunlight.",
+      "links": {}
+    },
+    {
       "id": "20261008-thursday-feature",
       "createdAt": "2026-10-08T03:08:23.452Z",
       "status": "draft",
