@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261011-sunday-kilig",
+      "createdAt": "2026-10-11T02:22:12.608Z",
+      "status": "draft",
+      "pillarId": "sunday-kilig",
+      "layout": "quote",
+      "kicker": "Munting paalala ngayong Linggo",
+      "headline": "Ang invitation ninyo ang unang *pasilip* sa kwento ng inyong forever.",
+      "accent": "",
+      "caption": "Bago pa man tumugtog ang march, ang invitation ang unang yayakap sa mga bisita ninyo.\n\nIt sets the mood for your entire celebration.\n\nGawing espesyal ang unang pahina ng inyong kwento.\n\nStart your forever beautifully. https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #FilipinoWeddings #KasalangPilipino #WeddingInspoPH",
+      "image": "assets/posts/20261011-sunday-kilig.png",
+      "imagePrompt": "A soft, elegant flat lay of modern wedding invitation cards surrounded by delicate cream roses and warm Sunday sunlight streaming through a window.",
+      "links": {}
+    },
+    {
       "id": "20261010-saturday-bts",
       "createdAt": "2026-10-10T02:53:03.747Z",
       "status": "draft",
