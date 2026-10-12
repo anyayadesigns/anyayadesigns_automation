@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261012-monday-inspiration",
+      "createdAt": "2026-10-12T02:46:58.328Z",
+      "status": "draft",
+      "pillarId": "monday-inspiration",
+      "layout": "quote",
+      "kicker": "Moodboard Monday",
+      "headline": "Design elements *that* stand out",
+      "accent": "made with love",
+      "caption": "Filipiniana modern twist for debuts — design elements that stand out\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nSave this peg! When you're ready, Anyaya Designs can make it real. ✨ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingPegs #WeddingInspo",
+      "image": "assets/posts/20261012-monday-inspiration.png",
+      "imagePrompt": "Filipiniana modern twist for debuts — design elements that stand out",
+      "links": {}
+    },
+    {
       "id": "20261011-sunday-kilig",
       "createdAt": "2026-10-11T02:22:12.608Z",
       "status": "draft",
