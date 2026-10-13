@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261013-tuesday-tech",
+      "createdAt": "2026-10-13T04:03:40.504Z",
+      "status": "draft",
+      "pillarId": "tuesday-tech",
+      "layout": "list",
+      "kicker": "Tech Tuesday",
+      "headline": "How a live guest *list* saves your budget (exact",
+      "accent": "made with love",
+      "caption": "How a live guest list saves your budget (exact headcount = exact catering cost)\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nLess stress, more kilig. Get your own RSVP website today. 💌 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #RSVPSystem #WeddingTech #ModernBride",
+      "image": "assets/posts/20261013-tuesday-tech.png",
+      "imagePrompt": "How a live guest list saves your budget (exact headcount = exact catering cost)",
+      "links": {}
+    },
+    {
       "id": "20261012-monday-inspiration",
       "createdAt": "2026-10-12T02:46:58.328Z",
       "status": "draft",
