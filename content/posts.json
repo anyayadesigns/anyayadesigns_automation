@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261014-wednesday-design",
+      "createdAt": "2026-10-14T02:17:16.365Z",
+      "status": "draft",
+      "pillarId": "wednesday-design",
+      "layout": "tips",
+      "kicker": "Tapatan lang tayo",
+      "headline": "Iba pa rin talaga kapag *mabigat* at ramdam ang bawat detalye.",
+      "accent": "",
+      "caption": "Iba ang magic kapag hawak mo na ang printed invitation ninyo.\n\nPremium card stock gives your guests that immediate feeling of elegance bago pa man sila makarating sa venue.\n\nYour love story, beautifully told. Order your invitations today. ✨ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #PaperStockPH #WeddingStationeryPH #PrintedInvitationsPH #PinoyWeddings",
+      "image": "assets/posts/20261014-wednesday-design.png",
+      "imagePrompt": "Close-up detailed photograph of elegant wedding invitations printed on thick textured cotton cardstock with gold foil accents resting on a neutral linen surface.",
+      "links": {}
+    },
+    {
       "id": "20261013-tuesday-tech",
       "createdAt": "2026-10-13T04:03:40.504Z",
       "status": "draft",
