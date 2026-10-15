@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261015-thursday-feature",
+      "createdAt": "2026-10-15T01:58:28.048Z",
+      "status": "draft",
+      "pillarId": "thursday-feature",
+      "layout": "list",
+      "kicker": "Paborito ng caterer mo",
+      "headline": "Mga online invitation features na *papasalamatan* ng caterer niyo",
+      "accent": "",
+      "caption": "Hindi lang para sa bisita ang interactive web invites.\nSobrang laki ng tulong nito sa caterer at coordinator niyo para maging seamless ang reception.\nBawas stress sa planning, iwas aberya sa mismong araw ng kasal.\nSee full packages here → https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingSuppliersPH #WeddingPlanningPH #InteractiveInvites",
+      "image": "assets/posts/20261015-thursday-feature.png",
+      "imagePrompt": "A modern elegant wedding reception table setup with minimalist place cards and a sleek smartphone showing a digital seat map website.",
+      "links": {}
+    },
+    {
       "id": "20261014-wednesday-design",
       "createdAt": "2026-10-14T02:17:16.365Z",
       "status": "draft",
