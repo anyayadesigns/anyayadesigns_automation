@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261018-sunday-kilig",
+      "createdAt": "2026-10-18T01:39:54.885Z",
+      "status": "draft",
+      "pillarId": "sunday-kilig",
+      "layout": "quote",
+      "kicker": "Sweet Sunday",
+      "headline": "Sunday thought: details *matter* because memories matter",
+      "accent": "kilig, delivered",
+      "caption": "Sunday thought: details matter because memories matter\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nTag your forever person. 🥰 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #LoveStory #ForeverBegins",
+      "image": "assets/posts/20261018-sunday-kilig.png",
+      "imagePrompt": "Sunday thought: details matter because memories matter",
+      "links": {}
+    },
+    {
       "id": "20261017-saturday-bts",
       "createdAt": "2026-10-17T01:43:28.999Z",
       "status": "draft",
