@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261019-monday-inspiration",
+      "createdAt": "2026-10-19T01:57:22.352Z",
+      "status": "draft",
+      "pillarId": "monday-inspiration",
+      "layout": "photo",
+      "kicker": "Para sa garden wedding",
+      "headline": "Gawin nating *magaan* at sariwa ang unang tingin sa inyong kasal.",
+      "accent": "soft and airy",
+      "caption": "Isang preskong inspirasyon para sa dream outdoor wedding ninyo.\n\nPinagsamang soft florals, natural light, at digital invitations na kasing-gaan ng simoy ng hangin.\n\nWhich detail is your favorite? Comment below! 👇 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #GardenWeddingPH #FilipinoWedding #FloralInvitations #MoodboardMonday",
+      "image": "assets/posts/20261019-monday-inspiration.png",
+      "imagePrompt": "An aesthetic moodboard layflat featuring delicate botanical florals, translucent vellum invitations, soft silk ribbons, and sunlit pastel tones for a luxury garden wedding.",
+      "links": {}
+    },
+    {
       "id": "20261018-sunday-kilig",
       "createdAt": "2026-10-18T01:39:54.885Z",
       "status": "draft",
