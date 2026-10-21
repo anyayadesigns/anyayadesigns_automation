@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261021-wednesday-design",
+      "createdAt": "2026-10-21T02:08:49.923Z",
+      "status": "draft",
+      "pillarId": "wednesday-design",
+      "layout": "quote",
+      "kicker": "Wedding Wednesday",
+      "headline": "Honest take: you *actually* need both",
+      "accent": "kilig, delivered",
+      "caption": "Digital vs printed invites — honest take: you actually need both\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nShare this with someone planning their wedding! 💍 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #InvitationDesign #StationeryLovers",
+      "image": "assets/posts/20261021-wednesday-design.png",
+      "imagePrompt": "Digital vs printed invites — honest take: you actually need both",
+      "links": {}
+    },
+    {
       "id": "20261020-tuesday-tech",
       "createdAt": "2026-10-20T02:15:09.026Z",
       "status": "draft",
