@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261022-thursday-feature",
+      "createdAt": "2026-10-22T02:03:01.671Z",
+      "status": "draft",
+      "pillarId": "thursday-feature",
+      "layout": "list",
+      "kicker": "Feature Thursday",
+      "headline": "Custom domain for your *big* day: yournamesayido.com 🥺",
+      "accent": "forever begins",
+      "caption": "Custom domain for your big day: yournamesayido.com 🥺\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nCurious about this service? DM us 'ANYAYA' and we'll send the details. 📩 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #SmallBusinessPH #SupportLocalPH",
+      "image": "assets/posts/20261022-thursday-feature.png",
+      "imagePrompt": "Custom domain for your big day: yournamesayido.com 🥺",
+      "links": {}
+    },
+    {
       "id": "20261021-wednesday-design",
       "createdAt": "2026-10-21T02:08:49.923Z",
       "status": "draft",
