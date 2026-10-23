@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261023-friday-faq",
+      "createdAt": "2026-10-23T02:06:55.617Z",
+      "status": "draft",
+      "pillarId": "friday-faq",
+      "layout": "question",
+      "kicker": "FAQ Friday: Tanong ng Bayan",
+      "headline": "Kailangan ba talaga parehong *website* at printed card para sa kasal?",
+      "accent": "",
+      "caption": "Kung gusto mo ng keepsake for VIPs and ninangs, printed cards are timeless.\n\nPero for effortless RSVP tracking and interactive venue maps, website ang totoong panalo.\n\nOur honest recommendation? Do a hybrid setup so you get the best of both worlds!\n\nMay question ka? Comment below at sasagutin namin! 💬 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingPrepPH #FilipinoWeddings #FAQFriday",
+      "image": "assets/posts/20261023-friday-faq.png",
+      "imagePrompt": "An elegant flat lay of a luxurious gold foil wedding invitation card placed beside a modern smartphone displaying a matching minimalist wedding website RSVP page on a linen background.",
+      "links": {}
+    },
+    {
       "id": "20261022-thursday-feature",
       "createdAt": "2026-10-22T02:03:01.671Z",
       "status": "draft",
