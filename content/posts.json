@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261024-saturday-bts",
+      "createdAt": "2026-10-24T02:06:23.514Z",
+      "status": "draft",
+      "pillarId": "saturday-bts",
+      "layout": "photo",
+      "kicker": "Mula sa aming puso",
+      "headline": "Maraming salamat sa *tiwala* ninyo sa aming maliit na pangarap.",
+      "accent": "Maraming salamat",
+      "caption": "Dahil sa bawat pares na nagtitiwala sa amin ngayong linggo, lalong lumalakas ang loob naming gumawa ng mas magagandang invitations.\n\nSeeing your love stories come to life through our work is the sweetest reward for our small team.\n\nThank you for letting us be part of your big day!\n\nFollow along for more behind-the-scenes! 🛠️ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #SmallBusinessPH #PinoyWeddings #BTSWeddings #WeddingPrepPH",
+      "image": "assets/posts/20261024-saturday-bts.png",
+      "imagePrompt": "A cozy, aesthetic desk setup of a Filipino designer working on an elegant digital wedding invitation on a tablet, surrounded by dried flowers, swatches of ribbon, and a warm cup of coffee in soft sunlight.",
+      "links": {}
+    },
+    {
       "id": "20261023-friday-faq",
       "createdAt": "2026-10-23T02:06:55.617Z",
       "status": "draft",
