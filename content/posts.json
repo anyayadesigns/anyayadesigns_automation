@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261025-sunday-kilig",
+      "createdAt": "2026-10-25T01:52:51.030Z",
+      "status": "draft",
+      "pillarId": "sunday-kilig",
+      "layout": "quote",
+      "kicker": "Bago ang malaking araw",
+      "headline": "Habang nagse-set ng countdown, siguraduhing *bawat* detalye ay *mararamdaman* ng bisita.",
+      "accent": "",
+      "caption": "Happy Sunday sa ating mga ikakasal!\n\nHabang binibilang ang mga araw, bawat maliit na detalye ay may kwentong dapat alagaan.\n\nFrom online RSVPs to custom printed cards, we make sure your guests feel the excitement too.\n\nWhen you're ready, we're here. 🤍 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #FilipinoWeddings #WeddingPrepPH #SundaySweetness",
+      "image": "assets/posts/20261025-sunday-kilig.png",
+      "imagePrompt": "A warm, photorealistic flatlay of elegant custom wedding invitations on cream linen cardstock placed beside a steaming mug on a sunlit oak wood table.",
+      "links": {}
+    },
+    {
       "id": "20261024-saturday-bts",
       "createdAt": "2026-10-24T02:06:23.514Z",
       "status": "draft",
