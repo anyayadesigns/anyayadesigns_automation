@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261026-monday-inspiration",
+      "createdAt": "2026-10-26T01:54:57.205Z",
+      "status": "draft",
+      "pillarId": "monday-inspiration",
+      "layout": "quote",
+      "kicker": "Moodboard Monday",
+      "headline": "Minimalist is in: less *clutter,* more meaning on your",
+      "accent": "forever begins",
+      "caption": "Minimalist is in: less clutter, more meaning on your invites\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nDreaming of this theme? Send us a message and let's design it together. 💌 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingPegs #WeddingInspo",
+      "image": "assets/posts/20261026-monday-inspiration.png",
+      "imagePrompt": "Minimalist is in: less clutter, more meaning on your invites",
+      "links": {}
+    },
+    {
       "id": "20261025-sunday-kilig",
       "createdAt": "2026-10-25T01:52:51.030Z",
       "status": "draft",
