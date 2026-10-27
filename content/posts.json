@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261027-tuesday-tech",
+      "createdAt": "2026-10-27T02:32:49.454Z",
+      "status": "draft",
+      "pillarId": "tuesday-tech",
+      "layout": "list",
+      "kicker": "Ang dream combo",
+      "headline": "Hawak ang *ganda* sa papel, hassle-free naman sa *digital* RSVP.",
+      "accent": "",
+      "caption": "Hindi mo kailangang pumili sa pagitan ng tradisyon at convenience.\n\nGive your VIPs the luxury of printed cards, while keeping your guest list effortlessly organized online.\n\nReady to ditch the spreadsheet? Let's build your RSVP site. 💻 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingInspoPH #ModernWeddingPH #FilipinoWeddings",
+      "image": "assets/posts/20261027-tuesday-tech.png",
+      "imagePrompt": "A top-down aesthetic flatlay of an elegant printed cream wedding invitation suite with gold foil detailing next to an iPhone displaying a matching modern online RSVP website, resting on a textured linen surface with subtle dried botanical accents.",
+      "links": {}
+    },
+    {
       "id": "20261026-monday-inspiration",
       "createdAt": "2026-10-26T01:54:57.205Z",
       "status": "draft",
