@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261028-wednesday-design",
+      "createdAt": "2026-10-28T02:42:01.281Z",
+      "status": "draft",
+      "pillarId": "wednesday-design",
+      "layout": "tips",
+      "kicker": "Paalala sa inyong wording",
+      "headline": "Paano gawing mas *elegant* at warm ang text ng inyong invitation",
+      "accent": "",
+      "caption": "Hindi kailangang sobrang haba ng salita para maging mamahalin ang inyong imbitasyon.\n\nA few simple wording tweaks can make your invitations feel warm, clear, and timeless.\n\nLet your words set the right tone for your big day.\n\nNeed guidance? We'll walk you through every step. 🖋️ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingWording #FilipinoWeddings #WeddingTipsPH",
+      "image": "assets/posts/20261028-wednesday-design.png",
+      "imagePrompt": "An aesthetic flatlay of elegant custom wedding invitation cards with minimalist typography, styled with soft silk ribbon, dried florals, and a vintage pen on a cream linen surface.",
+      "links": {}
+    },
+    {
       "id": "20261027-tuesday-tech",
       "createdAt": "2026-10-27T02:32:49.454Z",
       "status": "draft",
