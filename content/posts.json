@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261029-thursday-feature",
+      "createdAt": "2026-10-29T03:00:15.597Z",
+      "status": "draft",
+      "pillarId": "thursday-feature",
+      "layout": "list",
+      "kicker": "Bawas Stress Sa RSVP",
+      "headline": "Bawas alala kapag *real-time* mong nakikita ang confirmations.",
+      "accent": "",
+      "caption": "Ayaw mo na ba ng paulit-ulit na pag-tally sa spreadsheet?\n\nWith our live RSVP dashboard, automatic nang nagso-sort ang confirmations at guest preferences mo in real-time.\n\nLess guest list stress, more time to enjoy your planning journey.\n\nSlots are limited per month to keep quality high. Reserve yours! ⏳ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #OnlineRSVP #WeddingPlanningPH #FilipinoWeddings",
+      "image": "assets/posts/20261029-thursday-feature.png",
+      "imagePrompt": "A sleek modern smartphone displaying an elegant minimalist wedding RSVP dashboard next to aesthetic dried florals and a classy wedding planner notebook on a beige marble table.",
+      "links": {}
+    },
+    {
       "id": "20261028-wednesday-design",
       "createdAt": "2026-10-28T02:42:01.281Z",
       "status": "draft",
