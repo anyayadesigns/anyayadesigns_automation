@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261030-friday-faq",
+      "createdAt": "2026-10-30T03:05:08.071Z",
+      "status": "draft",
+      "pillarId": "friday-faq",
+      "layout": "question",
+      "kicker": "Tanong ng bayan",
+      "headline": "Magkano nga ba talaga ang *gastos* sa wedding invitation?",
+      "accent": "",
+      "caption": "Walang hidden fees, straight talk lang tayo dito.\nAng halaga ng invite ay nakadepende sa custom features, guest headcount, at kung printed or digital.\nGawa tayo ng package na swak sa dream vision at budget niyo.\n\nGot more questions? Our inbox is always open. 💌 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #BridePH #PHWeddings #WeddingBudgetPH #PinoyWeddings",
+      "image": "assets/posts/20261030-friday-faq.png",
+      "imagePrompt": "A minimalist editorial flatlay featuring elegant printed wedding invitations alongside a modern smartphone displaying a sleek digital RSVP webpage on soft textured cream linen with gentle sunlight shadows.",
+      "links": {}
+    },
+    {
       "id": "20261029-thursday-feature",
       "createdAt": "2026-10-29T03:00:15.597Z",
       "status": "draft",
