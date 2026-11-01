@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261101-sunday-kilig",
+      "createdAt": "2026-11-01T02:44:40.302Z",
+      "status": "draft",
+      "pillarId": "sunday-kilig",
+      "layout": "quote",
+      "kicker": "Isang paalala ngayong Linggo",
+      "headline": "Bawat kwento ng pag-ibig ay maganda, pero ang sa inyo ay dapat *unforgettable*.",
+      "accent": "",
+      "caption": "Hindi lang basta imbitasyon, ito ang unang pahina ng inyong kwento.\n\nMake your wedding announcement as unforgettable as the love you share.\n\nStart your forever beautifully. https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #PHWeddings #FilipinoWeddings #WeddingInspirationPH #SweetSunday",
+      "image": "assets/posts/20261101-sunday-kilig.png",
+      "imagePrompt": "An elegant editorial mockup of a luxury minimalist wedding invitation card with embossed text lying on a soft linen backdrop bathed in warm Sunday sunlight.",
+      "links": {}
+    },
+    {
       "id": "20261030-friday-faq",
       "createdAt": "2026-10-30T03:05:08.071Z",
       "status": "draft",
