@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261102-monday-inspiration",
+      "createdAt": "2026-11-02T02:56:04.915Z",
+      "status": "draft",
+      "pillarId": "monday-inspiration",
+      "layout": "photo",
+      "kicker": "Paleta ng pag-ibig",
+      "headline": "Bakit nga ba hindi kailanman nalalaos ang *sage green* at gold?",
+      "accent": "Forever Classic",
+      "caption": "May dahilan kung bakit paborito pa rin ang sage green at gold sa kasalan.\n\nIt brings a quiet luxury vibe—malamig sa mata pero may touch ng grandeng liwanag.\n\nPair this aesthetic with interactive web invitations to set the tone for your big day.\n\nSave this peg! When you're ready, Anyaya Designs can make it real. ✨ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #SageGreenWedding #WeddingPalette #PHWeddings",
+      "image": "assets/posts/20261102-monday-inspiration.png",
+      "imagePrompt": "An aesthetic editorial wedding moodboard flatlay featuring sage green eucalyptus leaves, gold foil accents, elegant stationery, and soft natural sunlight.",
+      "links": {}
+    },
+    {
       "id": "20261101-sunday-kilig",
       "createdAt": "2026-11-01T02:44:40.302Z",
       "status": "draft",
