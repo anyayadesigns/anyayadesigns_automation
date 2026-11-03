@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261103-tuesday-tech",
+      "createdAt": "2026-11-03T04:10:17.324Z",
+      "status": "draft",
+      "pillarId": "tuesday-tech",
+      "layout": "list",
+      "kicker": "Iwas stress sa guest list",
+      "headline": "Tapusin na ang pag-follow up gamit ang *smart* online RSVP website.",
+      "accent": "",
+      "caption": "Nakakapagod magtanong nang paulit-ulit kung makakadalo ba si Tita o si Ninong.\n\nSagot na ng aming custom web invitation ang hassle-free guest confirmation at instant headcount tracking.\n\nLess stress, more kilig. Get your own RSVP website today. 💌 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #FilipinoWeddings #TechTuesday #WeddingPlanningPH",
+      "image": "assets/posts/20261103-tuesday-tech.png",
+      "imagePrompt": "A top-down aesthetic flatlay of a luxury smartphone showing an elegant modern Filipino wedding RSVP web page next to modern typography invitation cards, warm lighting, muted beige backdrop, photorealistic.",
+      "links": {}
+    },
+    {
       "id": "20261102-monday-inspiration",
       "createdAt": "2026-11-02T02:56:04.915Z",
       "status": "draft",
