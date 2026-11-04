@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261104-wednesday-design",
+      "createdAt": "2026-11-04T03:28:49.864Z",
+      "status": "draft",
+      "pillarId": "wednesday-design",
+      "layout": "tips",
+      "kicker": "Para 'di kayo mag-cramming",
+      "headline": "Kailan nga ba dapat *magpa-gawa* at magpadala ng wedding invitations?",
+      "accent": "",
+      "caption": "Ayaw natin ng stress sa guest list weeks before the big day, 'di ba?\n\nSundin lang ang simple timeline na 'to para relaxed and organized ang RSVP management niyo.\n\nYour love story, beautifully told. Order your invitations today. ✨ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingWednesday #BridePH #WeddingTipsPH #PinoyWeddings",
+      "image": "assets/posts/20261104-wednesday-design.png",
+      "imagePrompt": "Flat lay of elegant wedding stationery, delicate dried flowers, wax seals, and a smartphone displaying a sleek web invitation on a textured linen surface.",
+      "links": {}
+    },
+    {
       "id": "20261103-tuesday-tech",
       "createdAt": "2026-11-03T04:10:17.324Z",
       "status": "draft",
