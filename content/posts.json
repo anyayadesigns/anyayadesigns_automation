@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261106-friday-faq",
+      "createdAt": "2026-11-06T03:48:29.674Z",
+      "status": "draft",
+      "pillarId": "friday-faq",
+      "layout": "question",
+      "kicker": "Gaano ba kabilis",
+      "headline": "Ilang araw bago ready ang inyong *custom* online invitation?",
+      "accent": "",
+      "caption": "From initial brief to final layout, 1 to 2 weeks lang ready na ang inyong custom digital web invitation.\n\nFor printed invitation suites, standard production takes around 3 to 4 weeks after design approval.\n\nSave this for your wedding planning journey! 🔖 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #WeddingTimelinePH #FilipinoWeddings #EventsPH",
+      "image": "assets/posts/20261106-friday-faq.png",
+      "imagePrompt": "A photorealistic aesthetic flat lay of elegant ivory wedding invitations and a smartphone showing a modern digital RSVP website on soft linen backdrop.",
+      "links": {}
+    },
+    {
       "id": "20261105-thursday-feature",
       "createdAt": "2026-11-05T03:51:17.366Z",
       "status": "draft",
