@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261108-sunday-kilig",
+      "createdAt": "2026-11-08T02:50:49.217Z",
+      "status": "draft",
+      "pillarId": "sunday-kilig",
+      "layout": "quote",
+      "kicker": "Mula sa aming puso",
+      "headline": "Maraming salamat sa pagtitiwalang bumuo ng inyong *pangarap* na imbitasyon ngayong buwan.",
+      "accent": "",
+      "caption": "Ang sarap sa pakiramdam na maging bahagi ng inyong simula.\n\nTo all our couples this month, thank you for letting us share in your story.\n\nTag your forever person. 🥰 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #KasalangPilipino #FilipinoWeddings #SweetSunday",
+      "image": "assets/posts/20261108-sunday-kilig.png",
+      "imagePrompt": "An elegant editorial quote card layout featuring minimal typography on a warm beige textured paper background with soft romantic lighting.",
+      "links": {}
+    },
+    {
       "id": "20261106-friday-faq",
       "createdAt": "2026-11-06T03:48:29.674Z",
       "status": "draft",
