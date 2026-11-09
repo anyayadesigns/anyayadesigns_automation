@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261109-monday-inspiration",
+      "createdAt": "2026-11-09T03:09:55.392Z",
+      "status": "draft",
+      "pillarId": "monday-inspiration",
+      "layout": "photo",
+      "kicker": "Moodboard Monday peg",
+      "headline": "Kahit simpleng detalye, ramdam ang *quiet luxury* sa inyong wedding suite.",
+      "accent": "Subtle Luxury",
+      "caption": "Old money aesthetic isn't about being loud—it's all about classic, intentional design choices.\n\nFrom custom wax seals and monogram crests to clean digital RSVP layouts, understated details speak volumes.\n\nWhich detail is your favorite? Comment below! 👇 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #OldMoneyWedding #WeddingPegPH #MoodboardMonday",
+      "image": "assets/posts/20261109-monday-inspiration.png",
+      "imagePrompt": "A top-down aesthetic flatlay of a classic cream-colored wedding invitation suite featuring gold foil monograms, vintage wax seals, and fine typography on a dark textured stone surface.",
+      "links": {}
+    },
+    {
       "id": "20261108-sunday-kilig",
       "createdAt": "2026-11-08T02:50:49.217Z",
       "status": "draft",
