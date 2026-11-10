@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261110-tuesday-tech",
+      "createdAt": "2026-11-10T04:52:11.444Z",
+      "status": "draft",
+      "pillarId": "tuesday-tech",
+      "layout": "list",
+      "kicker": "Group chat vs RSVP site",
+      "headline": "Bakit *hindi sapat* ang messenger group chat para sa kasal mo",
+      "accent": "",
+      "caption": "Iwas-sakit sa ulo sa pag-follow up ng bisita sa Messenger.\n\nWith a custom RSVP website, everything is organized, sleek, and stress-free for your big day.\n\nTag a bride who needs this! 😅 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #TechTuesday #WeddingPlanningPH #PinoyBride",
+      "image": "assets/posts/20261110-tuesday-tech.png",
+      "imagePrompt": "A modern smartphone resting on a minimalist linen tablecloth next to an elegant wedding stationery card, displaying a sleek interactive RSVP page.",
+      "links": {}
+    },
+    {
       "id": "20261109-monday-inspiration",
       "createdAt": "2026-11-09T03:09:55.392Z",
       "status": "draft",
