@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261111-wednesday-design",
+      "createdAt": "2026-11-11T03:17:52.015Z",
+      "status": "draft",
+      "pillarId": "wednesday-design",
+      "layout": "quote",
+      "kicker": "Wedding Wednesday",
+      "headline": "Ano ang dapat *nakalagay* sa invitation? Complete",
+      "accent": "made with love",
+      "caption": "Ano ang dapat nakalagay sa invitation? Complete checklist for PH weddings\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nShare this with someone planning their wedding! 💍 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #InvitationDesign #StationeryLovers",
+      "image": "assets/posts/20261111-wednesday-design.png",
+      "imagePrompt": "Ano ang dapat nakalagay sa invitation? Complete checklist for PH weddings",
+      "links": {}
+    },
+    {
       "id": "20261110-tuesday-tech",
       "createdAt": "2026-11-10T04:52:11.444Z",
       "status": "draft",
