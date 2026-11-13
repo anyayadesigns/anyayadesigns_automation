@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261113-friday-faq",
+      "createdAt": "2026-11-13T03:43:39.700Z",
+      "status": "draft",
+      "pillarId": "friday-faq",
+      "layout": "question",
+      "kicker": "Tanong ng karamihan",
+      "headline": "Pwede pa ba magpa-change ng design kapag *nagsimula* na?",
+      "accent": "",
+      "caption": "Yes, of course! Part ng process natin ang revisions kasi gusto namin na 100% in love kayo sa invitation ninyo.\n\nKasama sa packages natin ang clear revision rounds para smooth at stress-free ang bawat adjustment.\n\nMay question ka? Comment below at sasagutin namin! 💬 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #FAQFriday #WeddingPrepPH #FilipinoWeddings #CustomInvitations",
+      "image": "assets/posts/20261113-friday-faq.png",
+      "imagePrompt": "A minimalist editorial flatlay of a bride reviewing a digital wedding invitation draft on a modern tablet alongside elegant printed sample cards and a cup of coffee.",
+      "links": {}
+    },
+    {
       "id": "20261112-thursday-feature",
       "createdAt": "2026-11-12T04:28:46.713Z",
       "status": "draft",
