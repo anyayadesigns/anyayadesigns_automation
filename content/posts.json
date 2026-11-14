@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261114-saturday-bts",
+      "createdAt": "2026-11-14T03:42:24.872Z",
+      "status": "draft",
+      "pillarId": "saturday-bts",
+      "layout": "photo",
+      "kicker": "Bakit may test print muna",
+      "headline": "Sinisigurado muna natin ang *timpla* ng kulay bago i-run ang buong batch.",
+      "accent": "Quality check",
+      "caption": "Hindi lang bastang click print ang proseso dito sa Anyaya Designs.\n\nWe always test print to check color accuracy, foil sharpness, and paper texture first.\n\nPara paghawak niyo ng inyong invitation suite, pure perfection lang.\n\nFollow along for more behind-the-scenes! 🛠️ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #BehindTheScenesPH #PrintDesignPH #WeddingPrepPH",
+      "image": "assets/posts/20261114-saturday-bts.png",
+      "imagePrompt": "A close-up aesthetic shot of hands holding a printed wedding invitation test sheet next to color swatches on a modern editorial workshop table.",
+      "links": {}
+    },
+    {
       "id": "20261113-friday-faq",
       "createdAt": "2026-11-13T03:43:39.700Z",
       "status": "draft",
