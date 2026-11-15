@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261115-sunday-kilig",
+      "createdAt": "2026-11-15T03:19:10.329Z",
+      "status": "draft",
+      "pillarId": "sunday-kilig",
+      "layout": "quote",
+      "kicker": "Isang paalala ngayong Linggo",
+      "headline": "Ang imbitasyon ay hindi lang papel, ito ang *unang silip* sa inyong habambuhay.",
+      "accent": "",
+      "caption": "Ang imbitasyon ang unang hahawakan at titingnan ng mga mahal ninyo sa buhay.\n\nDito pa lang, nararamdaman na nila ang excitement para sa inyong pinakamahalagang araw.\n\nGawin nating mas espesyal ang unang hakbang ng inyong forever.\n\nWhen you're ready, we're here. 🤍 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #KasalangPilipino #SweetSunday #WeddingPrepPH",
+      "image": "assets/posts/20261115-sunday-kilig.png",
+      "imagePrompt": "A warm-toned, elegant flatlay of a modern wedding invitation suite on a textured linen surface with delicate dried floral accents and soft sunlight streaming across.",
+      "links": {}
+    },
+    {
       "id": "20261114-saturday-bts",
       "createdAt": "2026-11-14T03:42:24.872Z",
       "status": "draft",
