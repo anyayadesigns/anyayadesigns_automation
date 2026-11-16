@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261116-monday-inspiration",
+      "createdAt": "2026-11-16T03:21:36.804Z",
+      "status": "draft",
+      "pillarId": "monday-inspiration",
+      "layout": "photo",
+      "kicker": "Moodboard Monday Inspo",
+      "headline": "Sino'ng nagsabing luma ang Filipiniana when it can look this *stunning*?",
+      "accent": "Modern Twist",
+      "caption": "Sino'ng mag-aakala na pwedeng-pwede i-combine ang classic woven textures at sleek typography?\n\nBring a fresh, elegant vibe to your 18th birthday with subtle cultural details and warm neutral tones.\n\nDreaming of this theme? Send us a message and let's design it together. 💌 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #DebutInvitations #ModernFilipiniana #DebutPH #FilipinianaTheme",
+      "image": "assets/posts/20261116-monday-inspiration.png",
+      "imagePrompt": "Photorealistic flatlay moodboard featuring modern Filipiniana debut invitation cards with delicate gold foil details, cream woven linen textures, subtle floral accents, and warm minimalist aesthetics.",
+      "links": {}
+    },
+    {
       "id": "20261115-sunday-kilig",
       "createdAt": "2026-11-15T03:19:10.329Z",
       "status": "draft",
