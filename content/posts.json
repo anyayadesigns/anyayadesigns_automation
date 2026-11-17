@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261117-tuesday-tech",
+      "createdAt": "2026-11-17T05:20:56.498Z",
+      "status": "draft",
+      "pillarId": "tuesday-tech",
+      "layout": "list",
+      "kicker": "Bawas-gastos sa catering",
+      "headline": "Paano *makakatipid* sa catering budget ang live guest list?",
+      "accent": "",
+      "caption": "Ang isa sa pinakamalaking gastos sa kasal ay ang catering.\n\nKapag live ang guest list niyo, exact headcount lang ang babayaran niyo—walang nasayang na budget at walang sumobrang plato.\n\nReady to ditch the spreadsheet? Let's build your RSVP site. 💻 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #BudgetWeddingTips #WeddingsPH #PinoyWeddings #SmartRSVP",
+      "image": "assets/posts/20261117-tuesday-tech.png",
+      "imagePrompt": "A sleek modern smartphone displaying an elegant digital wedding RSVP interface resting on an aesthetic marble tabletop alongside white roses and gold accents.",
+      "links": {}
+    },
+    {
       "id": "20261116-monday-inspiration",
       "createdAt": "2026-11-16T03:21:36.804Z",
       "status": "draft",
