@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261118-wednesday-design",
+      "createdAt": "2026-11-18T04:49:32.707Z",
+      "status": "draft",
+      "pillarId": "wednesday-design",
+      "layout": "tips",
+      "kicker": "Minsan nasa hipo lang",
+      "headline": "Bakit nga ba *magkaiba* ang ramdam ng premium card stock sa kamay?",
+      "accent": "",
+      "caption": "Unang hawak pa lang ng bisita mo sa invitation, ramdam na nila kung gaano ninyo pinaghandaan ang araw na ito.\n\nPremium paper gives that quiet luxury feeling na hindi kayang pantayan ng ordinaryong papel.\n\nNeed guidance? We'll walk you through every step. 🖋️ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #PaperStationery #WeddingTipsPH #PHWeddings #PrintedInvitations",
+      "image": "assets/posts/20261118-wednesday-design.png",
+      "imagePrompt": "A close-up detailed photograph of elegant wedding invitation suites printed on thick cotton paper cardstock with gold foil stamping, resting on a clean neutral linen backdrop with soft natural morning light.",
+      "links": {}
+    },
+    {
       "id": "20261117-tuesday-tech",
       "createdAt": "2026-11-17T05:20:56.498Z",
       "status": "draft",
