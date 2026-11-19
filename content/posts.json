@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261119-thursday-feature",
+      "createdAt": "2026-11-19T04:40:26.767Z",
+      "status": "draft",
+      "pillarId": "thursday-feature",
+      "layout": "list",
+      "kicker": "Feature Thursday",
+      "headline": "Seat map + meal *choices:* features your caterer will",
+      "accent": "forever begins",
+      "caption": "Seat map + meal choices: features your caterer will thank you for\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nSlots are limited per month to keep quality high. Reserve yours! ⏳ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #SmallBusinessPH #SupportLocalPH",
+      "image": "assets/posts/20261119-thursday-feature.png",
+      "imagePrompt": "Seat map + meal choices: features your caterer will thank you for",
+      "links": {}
+    },
+    {
       "id": "20261118-wednesday-design",
       "createdAt": "2026-11-18T04:49:32.707Z",
       "status": "draft",
