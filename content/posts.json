@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261120-friday-faq",
+      "createdAt": "2026-11-20T04:30:00.312Z",
+      "status": "draft",
+      "pillarId": "friday-faq",
+      "layout": "question",
+      "kicker": "Tanong ng maraming bride",
+      "headline": "Paano kung *hindi techy* ang bisita sa wedding niyo?",
+      "accent": "",
+      "caption": "Worrying about Lolo, Lola, or non-techy guests?\n\nOur web invitations are designed to be tap-and-go simple—no downloads or sign-ups required.\n\nIf they can open a text message, they can easily RSVP in seconds.\n\nGot more questions? Our inbox is always open. 💌 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #FilipinoWeddings #WeddingsPH #ModernWeddingPH",
+      "image": "assets/posts/20261120-friday-faq.png",
+      "imagePrompt": "A warm photorealistic shot of an elderly Filipino couple smiling together while easily viewing an elegant digital wedding invitation on a smartphone.",
+      "links": {}
+    },
+    {
       "id": "20261119-thursday-feature",
       "createdAt": "2026-11-19T04:40:26.767Z",
       "status": "draft",
