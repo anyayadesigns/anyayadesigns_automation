@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261121-saturday-bts",
+      "createdAt": "2026-11-21T04:24:03.306Z",
+      "status": "draft",
+      "pillarId": "saturday-bts",
+      "layout": "photo",
+      "kicker": "Mula sa aming screen",
+      "headline": "Bawat grid at typography, *sadyang* binubuo para sa inyong *kwento*.",
+      "accent": "Behind the scenes",
+      "caption": "Hindi lang ito basta screen layout, kwento ng pag-iibigan niyo ang itinatayo natin dito.\n\nFrom picking the perfect typography to tweaking every button, sinisigurado naming magical at seamless ang experience ng bawat bisita.\n\nEvery order is personal to us. Salamat sa pagtitiwala! 💚 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #BehindTheScenes #FilipinoWeddings #WebDesignPH #PinoyWeddings",
+      "image": "assets/posts/20261121-saturday-bts.png",
+      "imagePrompt": "A cozy, aesthetic over-the-shoulder shot of a designer editing an elegant neutral-toned digital wedding RSVP page on a sleek monitor, surrounded by printed sample cardstock and a warm cup of tea.",
+      "links": {}
+    },
+    {
       "id": "20261120-friday-faq",
       "createdAt": "2026-11-20T04:30:00.312Z",
       "status": "draft",
