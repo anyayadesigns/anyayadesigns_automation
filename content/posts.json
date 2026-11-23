@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261123-monday-inspiration",
+      "createdAt": "2026-11-23T04:12:32.314Z",
+      "status": "draft",
+      "pillarId": "monday-inspiration",
+      "layout": "photo",
+      "kicker": "Garden wedding inspo",
+      "headline": "Pinagsamang *presko* at eleganteng detalye para sa inyong garden wedding.",
+      "accent": "Light & Airy",
+      "caption": "Presko, liwanag, at natural na ganda—ito ang perpektong mood para sa outdoor celebration ninyo.\n\nMas lalong nakaka-excite mag-imbita kapag ang digital invitation niyo ay kasing-fresh din ng inyong venue.\n\nSave this peg! When you're ready, Anyaya Designs can make it real. ✨ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #GardenWeddingPH #WeddingInspoPH #PHWeddings",
+      "image": "assets/posts/20261123-monday-inspiration.png",
+      "imagePrompt": "A photorealistic aesthetic moodboard for a garden wedding featuring soft botanical watercolors, delicate greenery, warm golden hour light, and elegant invitations on textured linen paper.",
+      "links": {}
+    },
+    {
       "id": "20261122-sunday-kilig",
       "createdAt": "2026-11-22T03:38:35.383Z",
       "status": "draft",
