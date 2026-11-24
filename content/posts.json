@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261124-tuesday-tech",
+      "createdAt": "2026-11-24T07:12:10.016Z",
+      "status": "draft",
+      "pillarId": "tuesday-tech",
+      "layout": "list",
+      "kicker": "Tech Tuesday",
+      "headline": "From invite to confirmation in *3* taps: how guests use",
+      "accent": "forever begins",
+      "caption": "From invite to confirmation in 3 taps: how guests use your RSVP site\n\nSa Anyaya Designs, kami na ang bahala sa mga detalye — ikaw, mag-focus ka na lang sa kilig. 🤍\n\nLess stress, more kilig. Get your own RSVP website today. 💌 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #RSVPSystem #WeddingTech #ModernBride",
+      "image": "assets/posts/20261124-tuesday-tech.png",
+      "imagePrompt": "From invite to confirmation in 3 taps: how guests use your RSVP site",
+      "links": {}
+    },
+    {
       "id": "20261123-monday-inspiration",
       "createdAt": "2026-11-23T04:12:32.314Z",
       "status": "draft",
