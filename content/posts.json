@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261125-wednesday-design",
+      "createdAt": "2026-11-25T05:45:50.970Z",
+      "status": "draft",
+      "pillarId": "wednesday-design",
+      "layout": "tips",
+      "kicker": "Ang totoo lang",
+      "headline": "Hindi kailangang *pumili* sa dalawa, you actually need both.",
+      "accent": "",
+      "caption": "Bakit ka pa mahihirapan pumili kung pwedeng magkasama?\n\nPrinted cards give your VIPs that tactile, sentimental feel, while web invites handle fast RSVPs effortlessly.\n\nYour love story, beautifully told. Order your invitations today. ✨ https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #PHWeddings #FilipinoWedding #OnlineRSVP #WeddingTipsPH",
+      "image": "assets/posts/20261125-wednesday-design.png",
+      "imagePrompt": "A stylish flat lay of elegant cream-colored printed wedding invitation cards with gold foil alongside a smartphone displaying a matching modern floral digital wedding website on a warm linen tablecloth.",
+      "links": {}
+    },
+    {
       "id": "20261124-tuesday-tech",
       "createdAt": "2026-11-24T07:12:10.016Z",
       "status": "draft",
