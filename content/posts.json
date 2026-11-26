@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261126-thursday-feature",
+      "createdAt": "2026-11-26T05:40:58.356Z",
+      "status": "draft",
+      "pillarId": "thursday-feature",
+      "layout": "list",
+      "kicker": "May sariling URL kayo",
+      "headline": "Gawing mas *personal* ang inyong digital invite with your own custom link",
+      "accent": "",
+      "caption": "Imagine sending an invite link like markandannasayido.com instead of a messy long URL.\n\nMas personal, mas elegant, at mas madaling tandaan ng inyong wedding guests.\n\nLet us help you create a seamless digital invite experience for your big day.\n\nSee full packages here → https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #PinoyWeddings #CustomDomain #WeddingPrepPH",
+      "image": "assets/posts/20261126-thursday-feature.png",
+      "imagePrompt": "A stylish flat lay of an elegant wedding invitation suite on neutral linen fabric, alongside a modern smartphone displaying a minimalist customized wedding website URL.",
+      "links": {}
+    },
+    {
       "id": "20261125-wednesday-design",
       "createdAt": "2026-11-25T05:45:50.970Z",
       "status": "draft",
