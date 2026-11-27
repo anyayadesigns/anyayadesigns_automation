@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261127-friday-faq",
+      "createdAt": "2026-11-27T05:30:03.801Z",
+      "status": "draft",
+      "pillarId": "friday-faq",
+      "layout": "question",
+      "kicker": "Tanong ng karamihan",
+      "headline": "Kailangan ba talaga *pareho* ang printed cards at web invitation?",
+      "accent": "",
+      "caption": "The short answer? Not required, but having both creates the ultimate guest experience.\n\nPrinted cards give your VIPs that heirloom tactile feel, while your website handles seamless RSVPs and live updates.\n\nPinagsamang tradisyon at modern convenience para walang mawawala sa details.\n\nSave this for your wedding planning journey! 🔖 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #FilipinoWedding #WeddingPrepPH #PrintAndDigital",
+      "image": "assets/posts/20261127-friday-faq.png",
+      "imagePrompt": "A top-down aesthetic flat lay of elegant cream linen wedding invitation stationery next to a sleek smartphone displaying a custom RSVP website on a warm wooden surface.",
+      "links": {}
+    },
+    {
       "id": "20261126-thursday-feature",
       "createdAt": "2026-11-26T05:40:58.356Z",
       "status": "draft",
