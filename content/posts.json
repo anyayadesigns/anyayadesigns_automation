@@ -2,6 +2,21 @@
   "version": 1,
   "posts": [
     {
+      "id": "20261128-saturday-bts",
+      "createdAt": "2026-11-28T05:06:15.404Z",
+      "status": "draft",
+      "pillarId": "saturday-bts",
+      "layout": "photo",
+      "kicker": "Mula sa aming puso",
+      "headline": "Bawat online invitation ay gawa nang may *pagmamahal* at pasasalamat",
+      "accent": "Small wins",
+      "caption": "Maraming salamat sa patuloy ninyong pagtiwala sa aming maliit na studio.\n\nBawat RSVP at wedding website na nabubuo natin ay tunay na nakakataba ng puso.\n\nKnow a couple getting married? Tag them below! 👇 https://anyayadesigns.github.io/flow",
+      "hashtags": "#AnyayaDesigns #DigitalInvitations #RSVPWebsite #WeddingInvitationsPH #WeddingPhilippines #BehindTheScenes #SmallBizPH #PinoyWeddings",
+      "image": "assets/posts/20261128-saturday-bts.png",
+      "imagePrompt": "A cozy design studio workspace with a laptop showcasing an elegant digital wedding RSVP website alongside aesthetic printed wedding cards and fresh flowers in soft daylight.",
+      "links": {}
+    },
+    {
       "id": "20261127-friday-faq",
       "createdAt": "2026-11-27T05:30:03.801Z",
       "status": "draft",
